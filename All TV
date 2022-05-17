@@ -17,7 +17,7 @@ http://103.167.190.250/hls/nexus.m3u8
 http://103.167.190.250/hls/Sony_Aath.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Flixhub",Star Jalsha HD
 http://103.167.190.250/hls/starjalsha.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Flixhub",Zee Bangla HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="Flixhub",Zee Bangla HD
 http://103.167.190.250/hls/zeebanglahd.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Flixhub",Colors Bangla
 http://103.167.190.250/hls/colorsbangla.m3u8
@@ -177,7 +177,7 @@ http://103.136.200.246:8082/Sonyaath/index.m3u8
 http://103.136.200.246:8082/Star-Jalsha/index.m3u8
 #EXTINF:-1 tvg-logo="",Star Jalsha HD(bd)
 http://89.187.162.109/STARJALSHA/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Amrbd",Zee Bangla HD(amrbd)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="Amrbd",Zee Bangla HD(amrbd)
 http://103.136.200.246:8082/ZeeBanglaHD/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Amrbd",Colors Bangla(amrbd)
 http://103.136.200.246:8082/colorsbangla/index.m3u8
@@ -397,7 +397,7 @@ http://tvserver.aliflailabd.com:8989/star-world/index.m3u8
 http://tvserver.aliflailabd.com:8989/star-plus/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Aliflailabd",T Sports
 http://tvserver.aliflailabd.com:8989/tsports/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Zee Bangla
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="Aliflailabd",Zee Bangla
 http://tvserver.aliflailabd.com:8989/zee-bangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.png"group-title="Roarzone",Gazi TV
 http://tvserver3.roarzone.info:25461/live/roarhome/noyan/1.m3u8
