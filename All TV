@@ -23,9 +23,9 @@ http://103.167.190.250/hls/zeebanglahd.m3u8
 http://103.167.190.250/hls/colorsbangla.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="Flixhub",Sun Bangla
 http://103.167.190.250/hls/sunbangla.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Flixhub",Zee Bangla Cinema
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png"group-title="Flixhub",Zee Bangla Cinema
 http://103.167.190.250/hls/zee-bangla-cinema.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Flixhub",Colors Bangla Cinema
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png"group-title="Flixhub",Colors Bangla Cinema
 http://103.167.190.250/hls/colore-bangla-cinema.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Flixhub",Jalsha Movies HD
 http://103.167.190.250/hls/jalshamovies.m3u8
