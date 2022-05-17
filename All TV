@@ -301,20 +301,20 @@ http://tvserver.aliflailabd.com:8989/beinsport1/index.m3u8
 http://tvserver.aliflailabd.com:8989/beinsport2/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Bein Sports 3
 http://tvserver.aliflailabd.com:8989/beinsport3/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",
-
-#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",
-
-#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",
-
-#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",
-
-#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",
-
-#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",
-
-#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",
-
+#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Boishakhi TV
+http://tvserver.aliflailabd.com:8989/boishakhi-tv/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",BTV National 
+http://tvserver.aliflailabd.com:8989/btv/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",BTV World
+http://tvserver.aliflailabd.com:8989/btv-world/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Cartoon Network
+http://tvserver.aliflailabd.com:8989/cartoon-network/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Channel 24
+http://tvserver.aliflailabd.com:8989/channel24/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Channel 9
+http://tvserver.aliflailabd.com:8989/channel9/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Channel I
+http://tvserver.aliflailabd.com:8989/channel-i/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Aliflailabd",
 
 #EXTINF:-1 tvg-logo=""group-title="Aliflailabd",
