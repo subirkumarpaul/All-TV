@@ -3,7 +3,7 @@
 http://103.167.190.250/hls/t-sports.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.png"group-title="Flixhub",Gazi TV
 http://103.167.190.250/hls/Gazi-TV.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Flixhub",Somoy TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg"group-title="Flixhub",Somoy TV
 http://103.167.190.250/hls/somoy.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Flixhub",Independent TV
 http://103.167.190.250/hls/indepen.m3u8
@@ -131,7 +131,7 @@ http://103.167.190.250/hls/bbcworld.m3u8
 http://103.136.200.246:8082/Gazi-Tv/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Amrbd",ATN Bangla(amrbd)
 http://103.136.200.246:8082/ATN-Bangla/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Amrbd",Somoy TV(amrbd)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg"group-title="Amrbd",Somoy TV(amrbd)
 http://103.136.200.246:8082/Somoy-TV/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Amrbd",Ekahtor TV(amrbd)
 http://103.136.200.246:8082/Ekattor-tv/index.m3u8
@@ -367,7 +367,7 @@ http://tvserver.aliflailabd.com:8989/rtv/index.m3u8
 http://tvserver.aliflailabd.com:8989/satv/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Set Max
 http://tvserver.aliflailabd.com:8989/setmax/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Somoy TV
+#EXTINF:-1 tvg-lojpegthttps://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg"group-title="Aliflailabd",Somoy TV
 http://tvserver.aliflailabd.com:8989/somoy-tv/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Sony Aath
 http://tvserver.aliflailabd.com:8989/sony-aath/index.m3u8
