@@ -339,6 +339,40 @@ http://tvserver.aliflailabd.com:8989/ekushey-tv/index.m3u8
 http://tvserver.aliflailabd.com:8989/gaanbangla/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Gazi TV
 http://tvserver.aliflailabd.com:8989/gazi-tv/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Independent TV
+http://tvserver.aliflailabd.com:8989/independent-tv/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Jalsha Movies
+http://tvserver.aliflailabd.com:8989/jalsha-movies/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Jamuna TV
+http://tvserver.aliflailabd.com:8989/jamuna-tv/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Maasranga TV
+http://tvserver.aliflailabd.com:8989/maasranga/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Movies Now
+http://tvserver.aliflailabd.com:8989/movies-now/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",MTV
+http://tvserver.aliflailabd.com:8989/mtv/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Masti Music
+http://tvserver.aliflailabd.com:8989/musti-music/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",MY TV
+http://tvserver.aliflailabd.com:8989/my-tv/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Nagorik TV
+http://tvserver.aliflailabd.com:8989/nagorik-tv/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Nick
+http://tvserver.aliflailabd.com:8989/nick/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",NTV
+http://tvserver.aliflailabd.com:8989/ntv/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",RTV
+http://tvserver.aliflailabd.com:8989/rtv/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",SATV
+http://tvserver.aliflailabd.com:8989/satv/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Set Max
+http://tvserver.aliflailabd.com:8989/setmax/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Somoy TV
+http://tvserver.aliflailabd.com:8989/somoy-tv/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Sony Aath
+http://tvserver.aliflailabd.com:8989/sony-aath/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Sony TV
+http://tvserver.aliflailabd.com:8989/sony-hd/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Aliflailabd",
 
 #EXTINF:-1 tvg-logo=""group-title="Aliflailabd",
@@ -347,12 +381,5 @@ http://tvserver.aliflailabd.com:8989/gazi-tv/index.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="Aliflailabd",
 
-
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",
 
