@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo=""group-title="Flixhub",T Sports
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Flixhub",T Sports
 http://103.167.190.250/hls/t-sports.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Flixhub",Gazi TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.png"group-title="Flixhub",Gazi TV
 http://103.167.190.250/hls/Gazi-TV.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Flixhub",Somoy TV
 http://103.167.190.250/hls/somoy.m3u8
@@ -127,7 +127,7 @@ http://103.167.190.250/hls/bindass.m3u8
 http://103.167.190.250/hls/aljazeera.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Flixhub",BBC World
 http://103.167.190.250/hls/bbcworld.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Amrbd",Gazi TV(amrbd)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.png"group-title="Amrbd",Gazi TV(amrbd)
 http://103.136.200.246:8082/Gazi-Tv/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Amrbd",ATN Bangla(amrbd)
 http://103.136.200.246:8082/ATN-Bangla/index.m3u8
@@ -253,9 +253,9 @@ http://bdiptv.net:8082/WILLOW-CRICKET-HD/index.m3u8
 http://bdiptv.net:8082/SUPERSPORT-CRICKET/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BDIPTV",BDIP1
 http://bdiptv.net:8082/bdip1/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="BDIPTV",T Sports
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="BDIPTV",T Sports
 http://bdiptv.net:8082/tsp/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="BDIPTV",Gazi TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.png"group-title="BDIPTV",Gazi TV
 http://bdiptv.net:8082/gtv/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BDIPTV",BDIPTV 13
 http://bdiptv.net:8082/tv13/index.m3u8
@@ -337,7 +337,7 @@ http://tvserver.aliflailabd.com:8989/ekattor/index.m3u8
 http://tvserver.aliflailabd.com:8989/ekushey-tv/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Gaan Bangla
 http://tvserver.aliflailabd.com:8989/gaanbangla/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Gazi TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.png"group-title="Aliflailabd",Gazi TV
 http://tvserver.aliflailabd.com:8989/gazi-tv/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Independent TV
 http://tvserver.aliflailabd.com:8989/independent-tv/index.m3u8
@@ -395,11 +395,11 @@ http://tvserver.aliflailabd.com:8989/star-sports-select1/index.m3u8
 http://tvserver.aliflailabd.com:8989/star-world/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Star Plus
 http://tvserver.aliflailabd.com:8989/star-plus/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",T Sports
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Aliflailabd",T Sports
 http://tvserver.aliflailabd.com:8989/tsports/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Zee Bangla
 http://tvserver.aliflailabd.com:8989/zee-bangla/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Roarzone",1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.png"group-title="Roarzone",Gazi TV
 http://tvserver3.roarzone.info:25461/live/roarhome/noyan/1.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Roarzone",2
 http://tvserver3.roarzone.info:25461/live/roarhome/noyan/2.m3u8
