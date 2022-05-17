@@ -373,13 +373,35 @@ http://tvserver.aliflailabd.com:8989/somoy-tv/index.m3u8
 http://tvserver.aliflailabd.com:8989/sony-aath/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Sony TV
 http://tvserver.aliflailabd.com:8989/sony-hd/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",
+#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Sony Pix
+http://tvserver.aliflailabd.com:8989/sony-pix-hd/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Sony Ten 1
+http://tvserver.aliflailabd.com:8989/sony-ten1-hd/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Sony Ten 2
+http://tvserver.aliflailabd.com:8989/sony-ten2/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Sont Ten 3
+http://tvserver.aliflailabd.com:8989/sony-ten3/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Star Gold
+http://tvserver.aliflailabd.com:8989/star-gold/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Star Jalsha
+http://tvserver.aliflailabd.com:8989/star-jalsha/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Star Movies
+http://tvserver.aliflailabd.com:8989/star-movies-hd/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Star Sports 1
+http://tvserver.aliflailabd.com:8989/star-sports1/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Star Sports Select 1
+http://tvserver.aliflailabd.com:8989/star-sports-select1/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Star World
+http://tvserver.aliflailabd.com:8989/star-world/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Star Plus
+http://tvserver.aliflailabd.com:8989/star-plus/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",T Sports
+http://tvserver.aliflailabd.com:8989/tsports/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Zee Bangla
+http://tvserver.aliflailabd.com:8989/zee-bangla/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Aliflailabd"
 
-#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",
+#EXTINF:-1 tvg-logo=""group-title="Aliflailabd"
 
-#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",
 
-#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",
-
-#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",
 
