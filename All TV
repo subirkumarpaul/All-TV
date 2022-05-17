@@ -399,9 +399,24 @@ http://tvserver.aliflailabd.com:8989/star-plus/index.m3u8
 http://tvserver.aliflailabd.com:8989/tsports/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Zee Bangla
 http://tvserver.aliflailabd.com:8989/zee-bangla/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Aliflailabd"
-
-#EXTINF:-1 tvg-logo=""group-title="Aliflailabd"
-
-
+#EXTINF:-1 tvg-logo=""group-title="Roarzone",1
+http://tvserver3.roarzone.info:25461/live/roarhome/noyan/1.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Roarzone",2
+http://tvserver3.roarzone.info:25461/live/roarhome/noyan/2.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Roarzone",3
+http://tvserver3.roarzone.info:25461/live/roarhome/noyan/3.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Roarzone",4
+http://tvserver3.roarzone.info:25461/live/roarhome/noyan/4.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Roarzone",5
+http://tvserver3.roarzone.info:25461/live/roarhome/noyan/5.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Roarzone",6
+http://tvserver3.roarzone.info:25461/live/roarhome/noyan/6.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Roarzone",7
+http://tvserver3.roarzone.info:25461/live/roarhome/noyan/7.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Roarzone",8
+http://tvserver3.roarzone.info:25461/live/roarhome/noyan/8.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Roarzone"9
+http://tvserver3.roarzone.info:25461/live/roarhome/noyan/9.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Roarzone"10
+http://tvserver3.roarzone.info:25461/live/roarhome/noyan/10.m3u8
 
