@@ -5,9 +5,9 @@ http://103.167.190.250/hls/t-sports.m3u8
 http://103.167.190.250/hls/Gazi-TV.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg"group-title="Flixhub",Somoy TV
 http://103.167.190.250/hls/somoy.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Flixhub",Independent TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Independent%20Television.png"group-title="Flixhub",Independent TV
 http://103.167.190.250/hls/indepen.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Flixhub",Channel I
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png"group-title="Flixhub",Channel I
 http://103.167.190.250/hls/channeli.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Flixhub",Masranga TV
 http://103.167.190.250/hls/masranga.m3u8
@@ -137,7 +137,7 @@ http://103.136.200.246:8082/Somoy-TV/index.m3u8
 http://103.136.200.246:8082/Ekattor-tv/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Amrbd",ATN News(amrbd)
 http://103.136.200.246:8082/Atn-News/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Amrbd",Independent TV(amrbd)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Independent%20Television.png"group-title="Amrbd",Independent TV(amrbd)
 http://103.136.200.246:8082/Independent-Tv/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Amrbd",Channel24(amrbd)
 http://103.136.200.246:8082/Channel24/index.m3u8
@@ -145,7 +145,7 @@ http://103.136.200.246:8082/Channel24/index.m3u8
 http://103.136.200.246:8082/News24bd/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Amrbd",DBC News(amrbd)
 http://103.136.200.246:8082/DBC-NEWS/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Amrbd",Channel I(amrbd)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png"group-title="Amrbd",Channel I(amrbd)
 http://103.136.200.246:8082/Channel-i/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Amrbd",Ekushay TV(amrbd)
 http://103.136.200.246:8082/Ekushey-TV/index.m3u8
@@ -313,7 +313,7 @@ http://tvserver.aliflailabd.com:8989/cartoon-network/index.m3u8
 http://tvserver.aliflailabd.com:8989/channel24/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Channel 9
 http://tvserver.aliflailabd.com:8989/channel9/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Channel I
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png"group-title="Aliflailabd",Channel I
 http://tvserver.aliflailabd.com:8989/channel-i/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Colors
 http://tvserver.aliflailabd.com:8989/colors-hd/index.m3u8
@@ -339,7 +339,7 @@ http://tvserver.aliflailabd.com:8989/ekushey-tv/index.m3u8
 http://tvserver.aliflailabd.com:8989/gaanbangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.png"group-title="Aliflailabd",Gazi TV
 http://tvserver.aliflailabd.com:8989/gazi-tv/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Independent TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Independent%20Television.png"group-title="Aliflailabd",Independent TV
 http://tvserver.aliflailabd.com:8989/independent-tv/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Jalsha Movies
 http://tvserver.aliflailabd.com:8989/jalsha-movies/index.m3u8
