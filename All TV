@@ -403,6 +403,20 @@ http://tvserver.aliflailabd.com:8989/zee-bangla/index.m3u8
 https://stream.rangdhanu.live/TSports/video.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Rangdhanu",Gazi TV
 https://stream.rangdhanu.live/GaziTV/video.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Rangdhanu",RTV
+https://stream.rangdhanu.live/RTV/video.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Rangdhanu",NTV
+https://stream.rangdhanu.live/NTV/video.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Rangdhanu",SATV
+https://stream.rangdhanu.live/SATV/video.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Rangdhanu",Channel 24
+https://stream.rangdhanu.live/Channel24/video.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Rangdhanu",Boishakhi TV
+https://stream.rangdhanu.live/BoishakhiTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Rangdhanu",Sony Aath
+https://stream.rangdhanu.live/SonyAath/video.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Rangdhanu",Zee Bangla
+https://stream.rangdhanu.live/ZeeBangla/video.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Rangdhanu",Sony Ten 1
 https://stream.rangdhanu.live/SonyTen1/video.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Rangdhanu",Sony Ten 2
