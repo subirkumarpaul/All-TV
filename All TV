@@ -399,3 +399,17 @@ http://tvserver.aliflailabd.com:8989/star-plus/index.m3u8
 http://tvserver.aliflailabd.com:8989/tsports/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="Aliflailabd",Zee Bangla
 http://tvserver.aliflailabd.com:8989/zee-bangla/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Rangdhanu",T Sports
+https://stream.rangdhanu.live/TSports/video.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Rangdhanu",Gazi TV
+https://stream.rangdhanu.live/GaziTV/video.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Rangdhanu",Sony Ten 1
+https://stream.rangdhanu.live/SonyTen1/video.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Rangdhanu",Sony Ten 2
+https://stream.rangdhanu.live/SonyTen2/video.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Rangdhanu",Sony Ten 3
+https://stream.rangdhanu.live/SonyTen3/video.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Rangdhanu",Sony Six
+https://stream.rangdhanu.live/SonySix/video.m3u8
+
+
