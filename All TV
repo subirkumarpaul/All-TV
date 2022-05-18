@@ -33,11 +33,11 @@ http://103.167.190.250/hls/jalshamovies.m3u8
 http://103.167.190.250/hls/sonyen.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png"group-title="Flixhub",Star Plus
 http://103.167.190.250/hls/starplus.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Flixhub",Colors
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png"group-title="Flixhub",Colors
 http://103.167.190.250/hls/colore-tv-hd.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Flixhub",Zee TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png"group-title="Flixhub",Zee TV
 http://103.167.190.250/hls/zeetv.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Flixhub",UTV Action
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/UTV%20Action.png"group-title="Flixhub",UTV Action
 http://103.167.190.250/hls/utvaction.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Flixhub",Zee Cinema HD
 http://103.167.190.250/hls/zeecinemahd.m3u8
@@ -191,7 +191,7 @@ http://103.136.200.246:8082/SonyTVHD/index.m3u8
 http://89.187.162.109/SONYHD/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Amrbd",Sony Sab(amrbd)
 http://103.136.200.246:8082/Sony_Sab/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Amrbd",Colors(amrbd)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png"group-title="Amrbd",Colors(amrbd)
 http://103.136.200.246:8082/colorsindia/index.m3u8
 #EXTINF:-1 tvg-logo="",Star Barath(bd)
 http://89.187.162.109/STARBHARATHD/mono.m3u8
@@ -315,7 +315,7 @@ http://tvserver.aliflailabd.com:8989/channel24/index.m3u8
 http://tvserver.aliflailabd.com:8989/channel9/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png"group-title="Aliflailabd",Channel I
 http://tvserver.aliflailabd.com:8989/channel-i/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Colors
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png"group-title="Aliflailabd",Colors
 http://tvserver.aliflailabd.com:8989/colors-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png"group-title="Aliflailabd",Colors Bangla
 http://tvserver.aliflailabd.com:8989/colors-bangla/index.m3u8
