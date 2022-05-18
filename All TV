@@ -39,45 +39,45 @@ http://103.167.190.250/hls/colore-tv-hd.m3u8
 http://103.167.190.250/hls/zeetv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/UTV%20Action.png"group-title="Flixhub",UTV Action
 http://103.167.190.250/hls/utvaction.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Flixhub",Zee Cinema HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="Flixhub",Zee Cinema HD
 http://103.167.190.250/hls/zeecinemahd.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Flixhub",Star Gold HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png"group-title="Flixhub",Star Gold HD
 http://103.167.190.250/hls/stargold.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Flixhub",Star Gold 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Flixhub",Star Gold 2
 http://103.167.190.250/hls/stargold2hd.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Flixhub",SONY Max HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Set%20Max.png"group-title="Flixhub",SONY Max HD
 http://103.167.190.250/hls/sony-maxhd.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Flixhub",SONY Max
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Set%20Max.png"group-title="Flixhub",SONY Max
 http://103.167.190.250/hls/sonymax.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Flixhub",Colors Cineplex
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Flixhub",Colors Cineplex
 http://103.167.190.250/hls/colorscineplex.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Flixhub",&Pictures
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="Flixhub",And Pictures
 http://103.167.190.250/hls/andpictures.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Flixhub",MBC 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MBC%202.png"group-title="Flixhub",MBC 2
 http://103.167.190.250/hls/dhin.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Flixhub",Star Sports 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201.png"group-title="Flixhub",Star Sports 1
 http://103.167.190.250/hls/stersports1hd.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Flixhub",Star Sports 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202.png"group-title="Flixhub",Star Sports 2
 http://103.167.190.250/hls/starsports2.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Flixhub",Star Sports 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%203.png"group-title="Flixhub",Star Sports 3
 http://103.167.190.250/hls/starsports3.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Flixhub",Star Sports Select 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select.png"group-title="Flixhub",Star Sports Select 1
 http://103.167.190.250/hls/Star_Sport_Select1HD.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Flixhub",Star Sports Select 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%202.png"group-title="Flixhub",Star Sports Select 2
 http://103.167.190.250/hls/select2.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Flixhub",Sony Six
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Six.png"group-title="Flixhub",Sony Six
 http://103.167.190.250/hls/sonysix.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Flixhub",SONY Ten 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Ten%201.png"group-title="Flixhub",SONY Ten 1
 http://103.167.190.250/hls/sonyten1.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Flixhub",SONY Ten 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Ten%202.png"group-title="Flixhub",SONY Ten 2
 http://103.167.190.250/hls/sonyten2.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Flixhub",SONY Ten 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Siny%20Ten%203.png"group-title="Flixhub",SONY Ten 3
 http://103.167.190.250/hls/sonyten3.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Flixhub",Eurosports
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png"group-title="Flixhub",Eurosports
 http://103.167.190.250/hls/euro.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Flixhub",Ten Sports PK
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten%20Sports%20PK.png"group-title="Flixhub",Ten Sports PK
 http://103.167.190.250/hls/ten.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Flixhub",PTV Sports
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png"group-title="Flixhub",PTV Sports
 http://103.167.190.250/hls/ptv.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Flixhub",Discovery HD
 http://103.167.190.250/hls/discovery.m3u8
@@ -197,21 +197,21 @@ http://103.136.200.246:8082/colorsindia/index.m3u8
 http://89.187.162.109/STARBHARATHD/mono.m3u8
 #EXTINF:-1 tvg-logo="",And TV(bd)
 http://89.187.162.109/ANDTVHD/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Amrbd",Zee Cinema HD(amrbd)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="Amrbd",Zee Cinema HD(amrbd)
 http://103.136.200.246:8082/ZeeCinemaHD/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Amrbd",Star Gold(amrbd)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png"group-title="Amrbd",Star Gold(amrbd)
 http://103.136.200.246:8082/StarGold/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Amrbd",SONY Max(amrbd)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Set%20Max.png"group-title="Amrbd",SONY Max(amrbd)
 http://103.136.200.246:8082/Sony-Max/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Amrbd",Amrbd
 http://103.136.200.246:8082/bflix/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Amrbd",Sony Six(amarbd)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Six.png"group-title="Amrbd",Sony Six(amarbd)
 http://103.136.200.246:8082/SonySix/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Amrbd",SONY Ten 1(amrbd)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Ten%201.png"group-title="Amrbd",SONY Ten 1(amrbd)
 http://103.136.200.246:8082/Ten1/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Amrbd",SONY Ten 2(amrbd)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Ten%202.png"group-title="Amrbd",SONY Ten 2(amrbd)
 http://103.136.200.246:8082/Ten2/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Amrbd",SONY Ten 3(amrbd)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Siny%20Ten%203.png"group-title="Amrbd",SONY Ten 3(amrbd)
 http://103.136.200.246:8082/Ten3/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Amrbd",Sony Pix(amrbd)
 http://103.136.200.246:8082/SonyPix/index.m3u8
@@ -227,17 +227,17 @@ http://bdiptv.net:8082/BEIN-SPORTS-2-HD/index.m3u8
 http://bdiptv.net:8082/BEIN-SPORTS-1-HD/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BDIPTV",Sky Sports Football
 http://bdiptv.net:8082/SKY-SPORTS-FOOTBALL/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="BDIPTV",Star Sports 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202.png"group-title="BDIPTV",Star Sports 2
 http://bdiptv.net:8082/STAR-SPORTS-2HD/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="BDIPTV",Star Sports 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201.png"group-title="BDIPTV",Star Sports 1
 http://bdiptv.net:8082/STAR-SPORTS-1HD/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="BDIPTV",Star Sports Select 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select.png"group-title="BDIPTV",Star Sports Select 1
 http://bdiptv.net:8082/STAR-SPORTS-SELECT-1-HD/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="BDIPTV",Star Sports Select 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%202.png"group-title="BDIPTV",Star Sports Select 2
 http://bdiptv.net:8082/STAR-SPORTS-SELECT-2-HD/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="BDIPTV",Sony Ten 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Ten%202.png"group-title="BDIPTV",Sony Ten 2
 http://bdiptv.net:8082/SONY-TEN-2-HD/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="BDIPTV",Sony Ten 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Siny%20Ten%203.png"group-title="BDIPTV",Sony Ten 3
 http://bdiptv.net:8082/SONY-TEN-3-HD/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BDIPTV",ESPN
 http://bdiptv.net:8082/ESPN/index.m3u8
@@ -245,7 +245,7 @@ http://bdiptv.net:8082/ESPN/index.m3u8
 http://bdiptv.net:8082/SKY-SPORTS-CRICKET/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BDIPTV",A Sports
 http://bdiptv.net:8082/ASPORTS/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="BDIPTV",Geo Super
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/GEO%20Super.png"group-title="BDIPTV",Geo Super
 http://bdiptv.net:8082/GEO-SUPER/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BDIPTV",Willow Cricket
 http://bdiptv.net:8082/WILLOW-CRICKET-HD/index.m3u8
@@ -365,7 +365,7 @@ http://tvserver.aliflailabd.com:8989/ntv/index.m3u8
 http://tvserver.aliflailabd.com:8989/rtv/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Aliflailabd",SATV
 http://tvserver.aliflailabd.com:8989/satv/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Set Max
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Set%20Max.png"group-title="Aliflailabd",Sony Max
 http://tvserver.aliflailabd.com:8989/setmax/index.m3u8
 #EXTINF:-1 tvg-lojpegthttps://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg"group-title="Aliflailabd",Somoy TV
 http://tvserver.aliflailabd.com:8989/somoy-tv/index.m3u8
@@ -375,21 +375,21 @@ http://tvserver.aliflailabd.com:8989/sony-aath/index.m3u8
 http://tvserver.aliflailabd.com:8989/sony-hd/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Sony Pix
 http://tvserver.aliflailabd.com:8989/sony-pix-hd/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Sony Ten 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Ten%201.png"group-title="Aliflailabd",Sony Ten 1
 http://tvserver.aliflailabd.com:8989/sony-ten1-hd/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Sony Ten 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Ten%202.png"group-title="Aliflailabd",Sony Ten 2
 http://tvserver.aliflailabd.com:8989/sony-ten2/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Sont Ten 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Siny%20Ten%203.png"group-title="Aliflailabd",Sont Ten 3
 http://tvserver.aliflailabd.com:8989/sony-ten3/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Star Gold
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png"group-title="Aliflailabd",Star Gold
 http://tvserver.aliflailabd.com:8989/star-gold/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png"group-title="Aliflailabd",Star Jalsha
 http://tvserver.aliflailabd.com:8989/star-jalsha/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Star Movies
 http://tvserver.aliflailabd.com:8989/star-movies-hd/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Star Sports 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201.png"group-title="Aliflailabd",Star Sports 1
 http://tvserver.aliflailabd.com:8989/star-sports1/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Star Sports Select 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select.png"group-title="Aliflailabd",Star Sports Select 1
 http://tvserver.aliflailabd.com:8989/star-sports-select1/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Star World
 http://tvserver.aliflailabd.com:8989/star-world/index.m3u8
@@ -417,13 +417,13 @@ https://stream.rangdhanu.live/BoishakhiTV/tracks-v1a1/mono.m3u8
 https://stream.rangdhanu.live/SonyAath/video.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="Rangdhanu",Zee Bangla
 https://stream.rangdhanu.live/ZeeBangla/video.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Rangdhanu",Sony Ten 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Ten%201.png"group-title="Rangdhanu",Sony Ten 1
 https://stream.rangdhanu.live/SonyTen1/video.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Rangdhanu",Sony Ten 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Ten%202.png"group-title="Rangdhanu",Sony Ten 2
 https://stream.rangdhanu.live/SonyTen2/video.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Rangdhanu",Sony Ten 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Siny%20Ten%203.png"group-title="Rangdhanu",Sony Ten 3
 https://stream.rangdhanu.live/SonyTen3/video.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Rangdhanu",Sony Six
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Six.png"group-title="Rangdhanu",Sony Six
 https://stream.rangdhanu.live/SonySix/video.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Rangdhanu",
 
