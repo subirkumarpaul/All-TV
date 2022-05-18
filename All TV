@@ -27,11 +27,11 @@ http://103.167.190.250/hls/sunbangla.m3u8
 http://103.167.190.250/hls/zee-bangla-cinema.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png"group-title="Flixhub",Colors Bangla Cinema
 http://103.167.190.250/hls/colore-bangla-cinema.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Flixhub",Jalsha Movies HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalsha%20Movies.png"group-title="Flixhub",Jalsha Movies HD
 http://103.167.190.250/hls/jalshamovies.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Flixhub",Sony TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20TV.png"group-title="Flixhub",Sony TV
 http://103.167.190.250/hls/sonyen.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Flixhub",Star Plus
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png"group-title="Flixhub",Star Plus
 http://103.167.190.250/hls/starplus.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Flixhub",Colors
 http://103.167.190.250/hls/colore-tv-hd.m3u8
@@ -183,11 +183,11 @@ http://103.136.200.246:8082/ZeeBanglaHD/index.m3u8
 http://103.136.200.246:8082/colorsbangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png",Sun Bangla(bd)
 http://89.187.178.133:9066/SUN_BANGLA/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Amrbd",Jalsha Movies HD(amrbd)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalsha%20Movies.png"group-title="Amrbd",Jalsha Movies HD(amrbd)
 http://103.136.200.246:8082/Jalshamovies/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Amrbd",Sony TV(amrbd)
 http://103.136.200.246:8082/SonyTVHD/index.m3u8
-#EXTINF:-1 tvg-logo="",Sony TV(bd)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20TV.png",Sony TV(bd)
 http://89.187.162.109/SONYHD/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Amrbd",Sony Sab(amrbd)
 http://103.136.200.246:8082/Sony_Sab/index.m3u8
@@ -341,7 +341,7 @@ http://tvserver.aliflailabd.com:8989/gaanbangla/index.m3u8
 http://tvserver.aliflailabd.com:8989/gazi-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Independent%20Television.png"group-title="Aliflailabd",Independent TV
 http://tvserver.aliflailabd.com:8989/independent-tv/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Jalsha Movies
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalsha%20Movies.png"group-title="Aliflailabd",Jalsha Movies
 http://tvserver.aliflailabd.com:8989/jalsha-movies/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Jamuna TV
 http://tvserver.aliflailabd.com:8989/jamuna-tv/index.m3u8
@@ -371,7 +371,7 @@ http://tvserver.aliflailabd.com:8989/setmax/index.m3u8
 http://tvserver.aliflailabd.com:8989/somoy-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Aath.png"group-title="Aliflailabd",Sony Aath
 http://tvserver.aliflailabd.com:8989/sony-aath/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Sony TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20TV.png"group-title="Aliflailabd",Sony TV
 http://tvserver.aliflailabd.com:8989/sony-hd/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Sony Pix
 http://tvserver.aliflailabd.com:8989/sony-pix-hd/index.m3u8
@@ -393,7 +393,7 @@ http://tvserver.aliflailabd.com:8989/star-sports1/index.m3u8
 http://tvserver.aliflailabd.com:8989/star-sports-select1/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Star World
 http://tvserver.aliflailabd.com:8989/star-world/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Star Plus
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png"group-title="Aliflailabd",Star Plus
 http://tvserver.aliflailabd.com:8989/star-plus/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Aliflailabd",T Sports
 http://tvserver.aliflailabd.com:8989/tsports/index.m3u8
