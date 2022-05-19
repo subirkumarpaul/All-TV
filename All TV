@@ -89,23 +89,23 @@ http://103.167.190.250/hls/discovery.m3u8
 http://103.167.190.250/hls/dis-science.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Flixhub",Net Geo HD
 http://103.167.190.250/hls/ngohd.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Flixhub",Net Geo Wild
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png"group-title="Flixhub",Net Geo Wild
 http://103.167.190.250/hls/wild.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Flixhub",Travel XP HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png"group-title="Flixhub",Travel XP HD
 http://103.167.190.250/hls/travelxp.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Flixhub",SONY BBC Earth
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="Flixhub",SONY BBC Earth
 http://103.167.190.250/hls/bbcearth.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Flixhub",Animal Planet
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="Flixhub",Animal Planet
 http://103.167.190.250/hls/animalplanent.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Flixhub",Discovery Kids
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Kids.png"group-title="Flixhub",Discovery Kids
 http://103.167.190.250/hls/dis-kid.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Flixhub",Nick
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="Flixhub",Nick
 http://103.167.190.250/hls/nick.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Flixhub",Cartoon Network
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png"group-title="Flixhub",Cartoon Network
 http://103.167.190.250/hls/cn.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Flixhub",Pogo
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/POGO.jpeg"group-title="Flixhub",Pogo
 http://103.167.190.250/hls/pogo.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Flixhub",Star Movies
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Movies.png"group-title="Flixhub",Star Movies
 http://103.167.190.250/hls/starmovies.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Flixhub",Sony Pix
 http://103.167.190.250/hls/sonypixhd.m3u8
@@ -311,7 +311,7 @@ http://tvserver.aliflailabd.com:8989/boishakhi-tv/index.m3u8
 http://tvserver.aliflailabd.com:8989/btv/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Aliflailabd",BTV World
 http://tvserver.aliflailabd.com:8989/btv-world/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Cartoon Network
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png"group-title="Aliflailabd",Cartoon Network
 http://tvserver.aliflailabd.com:8989/cartoon-network/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Channel 24
 http://tvserver.aliflailabd.com:8989/channel24/index.m3u8
@@ -361,7 +361,7 @@ http://tvserver.aliflailabd.com:8989/musti-music/index.m3u8
 http://tvserver.aliflailabd.com:8989/my-tv/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Nagorik TV
 http://tvserver.aliflailabd.com:8989/nagorik-tv/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Nick
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="Aliflailabd",Nick
 http://tvserver.aliflailabd.com:8989/nick/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Aliflailabd",NTV
 http://tvserver.aliflailabd.com:8989/ntv/index.m3u8
