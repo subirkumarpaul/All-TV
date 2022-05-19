@@ -137,9 +137,9 @@ http://103.136.200.246:8082/Gazi-Tv/index.m3u8
 http://103.136.200.246:8082/ATN-Bangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg"group-title="Amrbd",Somoy TV(amrbd)
 http://103.136.200.246:8082/Somoy-TV/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Amrbd",Ekattor TV(amrbd)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekattor%20TV.png"group-title="Amrbd",Ekattor TV(amrbd)
 http://103.136.200.246:8082/Ekattor-tv/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Amrbd",ATN News(amrbd)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20News.png"group-title="Amrbd",ATN News(amrbd)
 http://103.136.200.246:8082/Atn-News/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Independent%20Television.png"group-title="Amrbd",Independent TV(amrbd)
 http://103.136.200.246:8082/Independent-Tv/index.m3u8
@@ -285,7 +285,7 @@ http://tvserver.aliflailabd.com:8989/asiantv/index.m3u8
 http://tvserver.aliflailabd.com:8989/atn-bangla/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Aliflailabd",ATN Islamic TV
 http://tvserver.aliflailabd.com:8989/atnislamictv/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",ATN News
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20News.png"group-title="Aliflailabd",ATN News
 http://tvserver.aliflailabd.com:8989/atn-news/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Aliflailabd",B4U Movies
 http://tvserver.aliflailabd.com:8989/b4u-movies/index.m3u8
@@ -335,7 +335,7 @@ http://tvserver.aliflailabd.com:8989/discovery/index.m3u8
 http://tvserver.aliflailabd.com:8989/duronto-tv/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Aliflailabd",DW
 http://tvserver.aliflailabd.com:8989/dw/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Aliflailabd"TVkattor TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekattor%20TV.png"group-title="Aliflailabd"TVkattor TV
 http://tvserver.aliflailabd.com:8989/ekattor/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Ekushey TV
 http://tvserver.aliflailabd.com:8989/ekushey-tv/index.m3u8
