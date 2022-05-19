@@ -117,19 +117,19 @@ http://103.167.190.250/hls/mn+.m3u8
 http://103.167.190.250/hls/mnx-hd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20World.png"group-title="Flixhub",Star World
 http://103.167.190.250/hls/star-worldhd.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Flixhub",AXN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/AXN.png"group-title="Flixhub",AXN
 http://103.167.190.250/hls/axn.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Flixhub",TLC
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TLC.png"group-title="Flixhub",TLC
 http://103.167.190.250/hls/tlc.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Flixhub",9xm
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9xm.png"group-title="Flixhub",9xm
 http://103.167.190.250/hls/9xm.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Flixhub",Zoom
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ZOOM.png"group-title="Flixhub",Zoom
 http://103.167.190.250/hls/zoom.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Flixhub",Bindass
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bindass.png"group-title="Flixhub",Bindass
 http://103.167.190.250/hls/bindass.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Flixhub",Aljazeera
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png"group-title="Flixhub",Aljazeera
 http://103.167.190.250/hls/aljazeera.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Flixhub",BBC World
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BBC%20World%20News.png"group-title="Flixhub",BBC World
 http://103.167.190.250/hls/bbcworld.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.png"group-title="Amrbd",Gazi TV(amrbd)
 http://103.136.200.246:8082/Gazi-Tv/index.m3u8
@@ -137,7 +137,7 @@ http://103.136.200.246:8082/Gazi-Tv/index.m3u8
 http://103.136.200.246:8082/ATN-Bangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg"group-title="Amrbd",Somoy TV(amrbd)
 http://103.136.200.246:8082/Somoy-TV/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Amrbd",Ekahtor TV(amrbd)
+#EXTINF:-1 tvg-logo=""group-title="Amrbd",Ekattor TV(amrbd)
 http://103.136.200.246:8082/Ekattor-tv/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Amrbd",ATN News(amrbd)
 http://103.136.200.246:8082/Atn-News/index.m3u8
@@ -297,7 +297,7 @@ http://tvserver.aliflailabd.com:8989/bangla-tv/index.m3u8
 http://tvserver.aliflailabd.com:8989/bangla-vision/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Aliflailabd",BBC Earth
 http://tvserver.aliflailabd.com:8989/bbc-earth/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",BBC World
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BBC%20World%20News.png"group-title="Aliflailabd",BBC World
 http://tvserver.aliflailabd.com:8989/bbc-world/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Bein Sports 1
 http://tvserver.aliflailabd.com:8989/beinsport1/index.m3u8
