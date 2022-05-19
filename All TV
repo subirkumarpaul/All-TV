@@ -403,12 +403,16 @@ http://tvserver.aliflailabd.com:8989/star-plus/index.m3u8
 http://tvserver.aliflailabd.com:8989/tsports/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="Aliflailabd",Zee Bangla
 http://tvserver.aliflailabd.com:8989/zee-bangla/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Rangdhanu",BTV World
+https://stream.rangdhanu.live/BTVWorld/video.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Rangdhanu",T Sports
 https://stream.rangdhanu.live/TSports/video.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.png"group-title="Rangdhanu",Gazi TV
 https://stream.rangdhanu.live/GaziTV/video.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Rangdhanu",ATN Bangla
 https://stream.rangdhanu.live/ATNBangla/video.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Rangdhanu",Channel I
+https://stream.rangdhanu.live/ChannelI/video.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Rangdhanu",RTV
 https://stream.rangdhanu.live/RTV/video.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Rangdhanu",NTV
@@ -419,6 +423,10 @@ https://stream.rangdhanu.live/SATV/video.m3u8
 https://stream.rangdhanu.live/Channel24/video.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Rangdhanu",Boishakhi TV
 https://stream.rangdhanu.live/BoishakhiTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Rangdhanu",News 24
+https://stream.rangdhanu.live/News24/video.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Rangdhanu",DBC News
+https://stream.rangdhanu.live/DBCNews/video.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Aath.png"group-title="Rangdhanu",Sony Aath
 https://stream.rangdhanu.live/SonyAath/video.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="Rangdhanu",Zee Bangla
