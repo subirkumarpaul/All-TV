@@ -169,7 +169,7 @@ http://103.136.200.246:8082/MyTV/index.m3u8
 http://103.136.200.246:8082/anandotv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Banglavision.png"group-title="Amrbd",Banglavision(amrbd)
 http://103.136.200.246:8082/BanglaVision/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Amrbd",Nagorik TV(amrbd)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nagorik%20TV.png"group-title="Amrbd",Nagorik TV(amrbd)
 http://103.136.200.246:8082/Nagorik-TV/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Amrbd",Bijoy TV(amrbd)
 http://103.136.200.246:8082/BijoyTv/index.m3u8
@@ -361,7 +361,7 @@ http://tvserver.aliflailabd.com:8989/mtv/index.m3u8
 http://tvserver.aliflailabd.com:8989/musti-music/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Aliflailabd",MY TV
 http://tvserver.aliflailabd.com:8989/my-tv/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Aliflailabd",Nagorik TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nagorik%20TV.png"group-title="Aliflailabd",Nagorik TV
 http://tvserver.aliflailabd.com:8989/nagorik-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="Aliflailabd",Nick
 http://tvserver.aliflailabd.com:8989/nick/index.m3u8
@@ -492,7 +492,7 @@ http://10.16.100.203:8082/bangla/ekushe_tv_local.m3u8
 http://10.16.100.203:8082/bangla/Ganbangla_riptv.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ICC",Jamuna TV
 http://10.16.100.203:8082/bangla/jamuna_riptv21.m3u8
-#EXTINF:-1 tvg-logo=""group-title="ICC",Nagorik TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nagorik%20TV.png"group-title="ICC",Nagorik TV
 http://10.16.100.245/hindi/n@g0riktv_1st0p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png"group-title="ICC",RTV
 http://10.16.100.245/hindi/R_tv_1st0p.m3u8
