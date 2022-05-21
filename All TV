@@ -171,7 +171,7 @@ http://103.136.200.246:8082/anandotv/index.m3u8
 http://103.136.200.246:8082/BanglaVision/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nagorik%20TV.png"group-title="Amrbd",Nagorik TV(amrbd)
 http://103.136.200.246:8082/Nagorik-TV/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="Amrbd",Bijoy TV(amrbd)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bijoy%20TV.png"group-title="Amrbd",Bijoy TV(amrbd)
 http://103.136.200.246:8082/BijoyTv/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Amrbd",Boishakhi TV(amrbd)
 http://103.136.200.246:8082/Boishakhi/index.m3u8
@@ -472,7 +472,7 @@ http://10.16.100.245/hindi/atNnews_1st0p.m3u8
 http://10.16.100.245/hindi/b@ngla_tv_1stop.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ICC",Banglavision
 http://10.16.100.203:8082/bangla/banglaviSion_local.m3u8
-#EXTINF:-1 tvg-logo=""group-title="ICC",Bijoy TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bijoy%20TV.png"group-title="ICC",Bijoy TV
 http://10.16.100.203:8082/bangla/bIJoytV_riptv_21.m3u8
 #EXTINF:-1 tvg-logo=""group-title="ICC",Boishakhi TV
 http://10.16.100.203:8082/bangla/boishakhi.m3u8
