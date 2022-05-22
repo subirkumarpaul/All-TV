@@ -245,19 +245,19 @@ http://bdiptv.net:8082/STAR-SPORTS-SELECT-2-HD/index.m3u8
 http://bdiptv.net:8082/SONY-TEN-2-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Siny%20Ten%203.png"group-title="BDIPTV",Sony Ten 3
 http://bdiptv.net:8082/SONY-TEN-3-HD/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="BDIPTV",ESPN
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ESPN.png"group-title="BDIPTV",ESPN
 http://bdiptv.net:8082/ESPN/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sky%20Sports%20Cricket.png"group-title="BDIPTV",Sky Sports Cricket
 http://bdiptv.net:8082/SKY-SPORTS-CRICKET/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="BDIPTV",A Sports
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/A%20Sports.png"group-title="BDIPTV",A Sports
 http://bdiptv.net:8082/ASPORTS/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/GEO%20Super.png"group-title="BDIPTV",Geo Super
 http://bdiptv.net:8082/GEO-SUPER/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="BDIPTV",Willow Cricket
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Willow%20Cricket%20.png"group-title="BDIPTV",Willow Cricket
 http://bdiptv.net:8082/WILLOW-CRICKET-HD/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="BDIPTV",Super Sports Cricket
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Super%20Sports%20Cricket.png"group-title="BDIPTV",Super Sports Cricket
 http://bdiptv.net:8082/SUPERSPORT-CRICKET/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="BDIPTV",BDIP1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9xm.png"group-title="BDIPTV",9XM
 http://bdiptv.net:8082/bdip1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="BDIPTV",T Sports
 http://bdiptv.net:8082/tsp/index.m3u8
@@ -267,7 +267,7 @@ http://bdiptv.net:8082/gtv/index.m3u8
 http://bdiptv.net:8082/tv13/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BDIPTV",BDIPTV 14
 http://bdiptv.net:8082/tv14/index.m3u8
-#EXTINF:-1 tvg-logo=""group-title="BDIPTV",AD Sports 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/AD%20Sports%201.jpeg"group-title="BDIPTV",AD Sports 1
 http://bdiptv.net:8082/Adsports1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="BDIPTV",ATN Bangla
 http://bdiptv.net:8082/ATN-Bangla/index.m3u8
