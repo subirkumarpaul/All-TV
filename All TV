@@ -71,7 +71,7 @@ http://103.167.190.250/hls/Star_Sport_Select1HD.m3u8
 http://103.167.190.250/hls/select2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Six.png"group-title="Flixhub",Sony Six
 http://103.167.190.250/hls/sonysix.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Ten%201.png"group-title="Flixhub",SONY Ten 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Ten%201%40.jpg"group-title="Flixhub",SONY Ten 1
 http://103.167.190.250/hls/sonyten1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Ten%202.png"group-title="Flixhub",SONY Ten 2
 http://103.167.190.250/hls/sonyten2.m3u8
@@ -381,7 +381,7 @@ http://tvserver.aliflailabd.com:8989/sony-aath/index.m3u8
 http://tvserver.aliflailabd.com:8989/sony-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Pix.png"group-title="Aliflailabd",Sony Pix
 http://tvserver.aliflailabd.com:8989/sony-pix-hd/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Ten%201.png"group-title="Aliflailabd",Sony Ten 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Ten%201%40.jpg"group-title="Aliflailabd",Sony Ten 1
 http://tvserver.aliflailabd.com:8989/sony-ten1-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Ten%202.png"group-title="Aliflailabd",Sony Ten 2
 http://tvserver.aliflailabd.com:8989/sony-ten2/index.m3u8
@@ -433,7 +433,7 @@ https://stream.rangdhanu.live/DBCNews/video.m3u8
 https://stream.rangdhanu.live/SonyAath/video.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="Rangdhanu",Zee Bangla
 https://stream.rangdhanu.live/ZeeBangla/video.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Ten%201.png"group-title="Rangdhanu",Sony Ten 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Ten%201%40.jpg"group-title="Rangdhanu",Sony Ten 1
 https://stream.rangdhanu.live/SonyTen1/video.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Ten%202.png"group-title="Rangdhanu",Sony Ten 2
 https://stream.rangdhanu.live/SonyTen2/video.m3u8
@@ -514,7 +514,7 @@ http://10.16.100.245/hindi/akash8_1stop.m3u8
 http://10.16.100.245/hindi/pTvSp0rts.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Six.png"group-title="ICC",Sony Six
 http://10.16.100.207:8082/sports/s0ny6six.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Ten%201.png"group-title="ICC",Sony Ten 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Ten%201%40.jpg"group-title="ICC",Sony Ten 1
 http://10.16.100.207:8082/sports/s0nytEn_1onehd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Ten%202.png"group-title="ICC",Sony Ten 2
 http://10.16.100.207:8082/sports/sonyTen2_twohd.m3u8
