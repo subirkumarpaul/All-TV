@@ -93,11 +93,14 @@ http://103.136.200.246:8082/colorsbangla/index.m3u8
 http://tvserver.aliflailabd.com:8989/colors-bangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png"group-title="ICC",Colors Bangla(ICC)
 http://10.16.100.204:8082/hls/col0rsb@ngla.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="Flixhub",Sun Bangla(Flixhub)
 http://103.167.190.250/hls/sunbangla.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="BD",Sun Bangla(BD)
+http://89.187.178.133:9066/SUN_BANGLA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png"group-title="Flixhub",Zee Bangla Cinema(Flixhub)
 http://103.167.190.250/hls/zee-bangla-cinema.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png"group-title="Amrbd",Zee Bangla Cinema(Amrbd)
+http://103.136.200.246:8082/ZeeBanglacinema/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png"group-title="Flixhub",Colors Bangla Cinema(Flixhub)
 http://103.167.190.250/hls/colore-bangla-cinema.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalsha%20Movies.png"group-title="Flixhub",Jalsha Movies HD(Flixhub)
@@ -244,12 +247,8 @@ http://103.136.200.246:8082/BijoyTv/index.m3u8
 http://103.136.200.246:8082/Boishakhi/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gaan%20Bangla.png"group-title="Amrbd",Gaan Bangla(Amrbd)
 http://103.136.200.246:8082/GaanBangla/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="BD",Sun Bangla(BD)
-http://89.187.178.133:9066/SUN_BANGLA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalsha%20Movies.png"group-title="Amrbd",Jalsha Movies HD(Amrbd)
 http://103.136.200.246:8082/Jalshamovies/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png"group-title="Amrbd",Zee Bangla Cinema(Amrbd)
-http://103.136.200.246:8082/ZeeBanglacinema/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="BD",Enter 10 Bangla
 https://itvoign.multitvsolution.com/idvo/enterr10bangla_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20TV.png"group-title="Amrbd",Sony TV(Amrbd)
