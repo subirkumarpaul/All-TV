@@ -33,7 +33,7 @@ http://10.16.100.203:8082/bangla/GaZItv_1$top.m3u8
 http://103.167.190.250/hls/somoy.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg"group-title="Amrbd",Somoy TV(Amrbd)
 http://103.136.200.246:8082/Somoy-TV/index.m3u8
-#EXTINF:-1 tvg-lojpegthttps://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg"group-title="Aliflailabd",Somoy TV(Aliflailabd)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg"group-title="Aliflailabd",Somoy TV(Aliflailabd)
 http://tvserver.aliflailabd.com:8989/somoy-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg"group-title="ICC",Somoy TV(ICC)
 http://10.16.100.203:8082/bangla/somoy_riptv_21.m3u8
