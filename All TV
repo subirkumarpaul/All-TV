@@ -193,6 +193,8 @@ http://89.187.178.133:9066/SUN_BANGLA/tracks-v1a1/mono.m3u8
 http://103.136.200.246:8082/Jalshamovies/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png"group-title="Amrbd",Zee Bangla Cinema(Amrbd)
 http://103.136.200.246:8082/ZeeBanglacinema/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="BD",Enter 10 Bangla
+https://itvoign.multitvsolution.com/idvo/enterr10bangla_540p/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20TV.png"group-title="Amrbd",Sony TV(Amrbd)
 http://103.136.200.246:8082/SonyTVHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20TV.png"group-title="BD",Sony TV(BD)
