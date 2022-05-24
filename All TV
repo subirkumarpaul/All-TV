@@ -33,6 +33,8 @@ http://103.167.190.250/hls/zee-bangla-cinema.m3u8
 http://103.167.190.250/hls/colore-bangla-cinema.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jalsha%20Movies.png"group-title="Flixhub",Jalsha Movies HD(Flixhub)
 http://103.167.190.250/hls/jalshamovies.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TNk56Ai.png" group-title="BD",108.Sangeet Bangla(BD)
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20TV.png"group-title="Flixhub",Sony TV(Flixhub)
 http://103.167.190.250/hls/sonyen.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png"group-title="Flixhub",Star Plus(Flixhub)
@@ -93,6 +95,8 @@ http://103.167.190.250/hls/ngohd.m3u8
 http://103.167.190.250/hls/wild.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png"group-title="Flixhub",Travel XP HD(Flixhub)
 http://103.167.190.250/hls/travelxp.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KLBorkM.png" group-title="BD",Travel XP HD(BD)
+https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20BBC%20Earth.jpeg"group-title="Flixhub",SONY BBC Earth(Flixhub)
 http://103.167.190.250/hls/bbcearth.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="Flixhub",Animal Planet(Flixhub)
