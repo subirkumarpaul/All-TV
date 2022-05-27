@@ -73,9 +73,11 @@ http://10.16.100.245/hindi/s@tv_1st0p.m3u8
 http://103.136.200.246:8082/MohonaTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png"group-title="Amrbd",My TV(Amrbd)
 http://103.136.200.246:8082/MyTV/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asian%20Tv.png"group-title="Jagobd",Asian TV(Jagobd)
+http://iptvbd.jagobd.com:1931/live-orgin/asian-test-sample-ok-d.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Anonoda%20Tv.png"group-title="Amrbd",Anando TV(Amrbd)
 http://103.136.200.246:8082/anandotv/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Anonoda%20Tv.png"group-title="Amrbd",Anando TV(Amrbd)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Anonoda%20Tv.png"group-title="Jagobd",Anando TV(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/anandatv.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Banglavision.png"group-title="Amrbd",Banglavision(Amrbd)
 http://103.136.200.246:8082/BanglaVision/index.m3u8
@@ -445,9 +447,7 @@ http://tvserver.aliflailabd.com:8989/beinsport1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png"group-title="Aliflailabd",Al Jazeera(Aliflailabd)
 http://tvserver.aliflailabd.com:8989/aljazeera-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Flix.jpeg"group-title="Aliflailabd",And Flix(Aliflailabd)
-http://tvserver.aliflailabd.com:8989/and-flix/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Asian%20Tv.png"group-title="Aliflailabd",Asian TV(Aliflailabd)
-http://tvserver.aliflailabd.com:8989/asiantv/index.m3u8
+http://tvserver.aliflailabd.com:8989/and-flix/index.m3u8http://tvserver.aliflailabd.com:8989/asiantv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Islamic%20TV.png"group-title="Aliflailabd",ATN Islamic TV(Aliflailabd)
 http://tvserver.aliflailabd.com:8989/atnislamictv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20News.png"group-title="Aliflailabd",ATN News(Aliflailabd)
