@@ -317,6 +317,8 @@ http://103.167.190.250/hls/ten.m3u8
 http://103.167.190.250/hls/ptv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png"group-title="ICC",PTV Sports(ICC)
 http://10.16.100.245/hindi/pTvSp0rts.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/PTV%20Sports.png"group-title="BD2",PTV Sports(BD2)
+http://208.86.19.13:81/610.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="Flixhub",Discovery HD(Flixhub)
 http://103.167.190.250/hls/discovery.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="Aliflailabd",Discovery(Aliflailabd) 
