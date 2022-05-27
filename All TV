@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="BD",BTV National(BD)
-http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
+http://103.106.2.152:13456/btv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="Aliflailabd",BTV National(Aliflailabd) 
 http://tvserver.aliflailabd.com:8989/btv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="ICC",BTV National(ICC)
@@ -9,6 +9,12 @@ http://10.16.100.203:8082/bangla/BTv_NatiOnal_1stop.m3u8
 http://tvserver.aliflailabd.com:8989/btv-world/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20World.png"group-title="ICC",BTV World(ICC)
 http://10.16.100.203:8082/bangla/btb_w0rld_1stOp.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20World.png"group-title="Jagobd",BTV World(Jagobd)
+http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20World.png"group-title="BD2",BTV World(BD2)
+http://103.106.2.152:13456/btv_world.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20World.png"group-title="BD2",BTV CTG(BD2)
+http://103.106.2.152:13456/btv_ctg.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",IPL T20 2022
 https://vkvsd6.mycdn.me/hls/2543220361770.m3u8/sig/L4VMSca3lHs/expires/1653673630915/srcIp/45.84.123.93/clientType/13/srcAg/CHROME_ANDROID/mid/3818295405354/2543220361770_lowest/index.m3u8
 http://iptv.kitv.live:1935/live/maasrangalive/HODMTV/1.m3u8
