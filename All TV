@@ -10,7 +10,7 @@ http://tvserver.aliflailabd.com:8989/btv-world/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20World.png"group-title="ICC",BTV World(ICC)
 http://10.16.100.203:8082/bangla/btb_w0rld_1stOp.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",IPL T20 2022
-https://stream.rangdhanu.live/IPLLiveSD/video.m3u8
+http://iptv.kitv.live:1935/live/maasrangalive/HODMTV/1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 1
 http://iptvbd.jagobd.com:1931/live-orgin/titash.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Flixhub",T Sports(Flixhub)
