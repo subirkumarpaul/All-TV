@@ -211,7 +211,7 @@ http://tvserver.aliflailabd.com:8989/colors-hd/index.m3u8
 http://103.167.190.250/hls/zeetv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/UTV%20Action.png"group-title="Flixhub",UTV Action(Flixhub)
 http://103.167.190.250/hls/utvaction.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.vectorstock.com/i/1000x1000/38/76/cinema-logo-movie-emblem-template-vector-19873876.webp" group-title="BD2",UTV MOVIES HD(BD2)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/UTV%20Movies.jpeg" group-title="BD2",UTV MOVIES HD(BD2)
 http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="Flixhub",Zee Cinema HD(Flixhub)
 http://103.167.190.250/hls/zeecinemahd.m3u8
