@@ -70,6 +70,8 @@ http://103.136.200.246:8082/Channel-i/index.m3u8
 http://tvserver.aliflailabd.com:8989/channel-i/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png"group-title="ICC",Channel I(ICC)
 http://10.16.100.203:8082/bangla/chenel_I.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png"group-title="Jagobd",Channel I(Jagobd)
+http://iptvbd.jagobd.com:1931/live-orgin/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Maasranga%20TV.png"group-title="Flixhub",Maasranga TV(Flixhub)
 http://103.167.190.250/hls/masranga.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Maasranga%20TV.png"group-title="Aliflailabd",Maasranga TV(Aliflailabd)
@@ -162,6 +164,8 @@ http://tvserver.aliflailabd.com:8989/boishakhi-tv/index.m3u8
 http://10.16.100.203:8082/bangla/boishakhi.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%209.png"group-title="Aliflailabd",Channel 9(Aliflailabd)
 http://tvserver.aliflailabd.com:8989/channel9/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%209.png"group-title="Jagobd",Channel 9(Jagobd)
+http://iptvbd.jagobd.com:1931/live-orgin/channel9hd.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Duronto%20TV.jpeg"group-title="Aliflailabd",Duronto TV(Aliflailabd)
 http://tvserver.aliflailabd.com:8989/duronto-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nexus%20TV.png"group-title="Flixhub",Nexus TV HD(Flixhub)
@@ -216,6 +220,8 @@ http://103.136.200.246:8082/DBC-NEWS/index.m3u8
 http://tvserver.aliflailabd.com:8989/dbc-news/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DBC%20News.png"group-title="ICC",DBC News(ICC)
 http://10.16.100.203:8082/bangla/DbcNews_riptv_21.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DBC%20News.png"group-title="Jagobd",DBC News(Jagobd)
+http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gaan%20Bangla.png"group-title="Amrbd",Gaan Bangla(Amrbd)
 http://103.136.200.246:8082/GaanBangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gaan%20Bangla.png"group-title="Aliflailabd",Gaan Bangla(Aliflailabd)
