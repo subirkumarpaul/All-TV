@@ -575,8 +575,12 @@ http://103.167.190.250/hls/bindass.m3u8
 http://tvserver.aliflailabd.com:8989/musti-music/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MTV.png"group-title="Aliflailabd",MTV(Aliflailabd)
 http://tvserver.aliflailabd.com:8989/mtv/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MTV.png"group-title="BD2",Hangama Music(BD2)
+#EXTINF:-1 tvg-logo="https://imgur.com/fHvAoM9"group-title="BD2",Hangama Music(BD2)
 https://live.hungama.com/linear/dil-se/playlist_3.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/GizchDO"group-title="BD3", Kadak Music(BD2)
+https://live.hungama.com/linear/kadak-hits/playlist_1080p/index.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/KybFgbZ"group-title="BD2", Pop Pataka Music(BD2)
+https://live.hungama.com/linear/pop-pataka/playlist_1080p/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD2",MTV Beats(BD)
 http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
 
