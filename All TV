@@ -98,12 +98,16 @@ http://103.136.200.246:8082/RTV/index.m3u8
 http://tvserver.aliflailabd.com:8989/rtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png"group-title="ICC",RTV(ICC)
 http://10.16.100.245/hindi/R_tv_1st0p.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png"group-title="Jagobd",RTV(Jagobd)
+http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png"group-title="Amrbd",SATV(Amrbd)
 http://103.136.200.246:8082/SATV/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png"group-title="Aliflailabd",SATV(Aliflailabd)
 http://tvserver.aliflailabd.com:8989/satv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png"group-title="ICC",SATV(ICC)
 http://10.16.100.245/hindi/s@tv_1st0p.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png"group-title="Jagobd",SATV(Jagobd)
+http://iptvbd.jagobd.com:1931/live-orgin/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Mohona%20TV.png"group-title="Amrbd",Mohona TV(Amrbd)
 http://103.136.200.246:8082/MohonaTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png"group-title="Amrbd",My TV(Amrbd)
@@ -168,6 +172,8 @@ http://103.136.200.246:8082/Somoy-TV/index.m3u8
 http://tvserver.aliflailabd.com:8989/somoy-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg"group-title="ICC",Somoy TV(ICC)
 http://10.16.100.203:8082/bangla/somoy_riptv_21.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg"group-title="Jagobd",Somoy TV(Jagobd)
+http://iptvbd.jagobd.com:1931/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Independent%20Television.png"group-title="Flixhub",Independent TV(Flixhub)
 http://103.167.190.250/hls/indepen.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Independent%20Television.png"group-title="Amrbd",Independent TV(Amrbd)
@@ -194,6 +200,8 @@ http://103.136.200.246:8082/Channel24/index.m3u8
 http://tvserver.aliflailabd.com:8989/channel24/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/channel%2024.png"group-title="ICC",Channel 24(ICC)
 http://10.16.100.245/hindi/channeL24_1st0p.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/channel%2024.png"group-title="Jagobd",Channel 24(Jagobd)
+http://iptvbd.jagobd.com:1931/live-orgin/news24local.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/News%2024.png"group-title="Amrbd",News 24(Amrbd)
 http://103.136.200.246:8082/News24bd/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/DBC%20News.png"group-title="Amrbd",DBC News(Amrbd)
