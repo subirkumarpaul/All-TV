@@ -553,6 +553,8 @@ http://bdiptv.net:8082/bdip1/index.m3u8
 http://tvserver.aliflailabd.com:8989/9xm/tracks-8,1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9X%20Jalwa.png"group-title="Aliflailabd",9X Jalwa(Aliflailabd)
 http://tvserver.aliflailabd.com:8989/9X-JALWA/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9X%20Jalwa.png"group-title="BD2",9X Jalwa(BD2)
+https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Music.png"group-title="Aliflailabd",B4U Music(Aliflailabd)
 http://tvserver.aliflailabd.com:8989/b4u-music/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ZOOM.png"group-title="Flixhub",Zoom(Flixhub)
