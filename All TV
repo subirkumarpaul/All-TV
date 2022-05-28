@@ -16,8 +16,7 @@ http://103.106.2.152:13456/btv_world.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20World.png"group-title="BD2",BTV CTG(BD2)
 http://103.106.2.152:13456/btv_ctg.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",IPL T20 2022
-https://vkvsd6.mycdn.me/hls/2543220361770.m3u8/sig/L4VMSca3lHs/expires/1653673630915/srcIp/45.84.123.93/clientType/13/srcAg/CHROME_ANDROID/mid/3818295405354/2543220361770_lowest/index.m3u8
-http://iptv.kitv.live:1935/live/maasrangalive/HODMTV/1.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 1
 http://stream.accessnetbd.com/hls/sky4.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/titash.stream/chunks.m3u8
@@ -75,6 +74,8 @@ http://103.167.190.250/hls/masranga.m3u8
 http://tvserver.aliflailabd.com:8989/maasranga/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Maasranga%20TV.png"group-title="ICC",Maasranga TV(ICC)
 http://10.16.100.208:8082/hindi/m@sranga_1stOP.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Maasranga%20TV.png"group-title="BD2",Maasranga TV(BD2)
+http://iptv.kitv.live:1935/live/maasrangalive/HODMTV/1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png"group-title="Amrbd",Ekushay TV(Amrbd)
 http://103.136.200.246:8082/Ekushey-TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png"group-title="Aliflailabd",Ekushey TV(Aliflailabd)
