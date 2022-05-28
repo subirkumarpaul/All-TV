@@ -162,6 +162,8 @@ http://103.136.200.246:8082/Boishakhi/index.m3u8
 http://tvserver.aliflailabd.com:8989/boishakhi-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Boishaki%20TV.png"group-title="ICC",Boishakhi TV(ICC)
 http://10.16.100.203:8082/bangla/boishakhi.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Boishaki%20TV.png"group-title="Jagobd",Boishakhi Plus(Jagobd)
+http://iptvbd.jagobd.com:1931/live-orgin/boishakhiplus.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%209.png"group-title="Aliflailabd",Channel 9(Aliflailabd)
 http://tvserver.aliflailabd.com:8989/channel9/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%209.png"group-title="Jagobd",Channel 9(Jagobd)
