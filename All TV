@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports A
-http://bdiptv.net:8082/STAR-SPORTS-1HD/index.m3u8
+https://vkvsd66.mycdn.me/hls/2551947463339.m3u8/sig/GVXXoEDv85k/expires/1653919310163/srcIp/213.5.71.29/clientType/13/srcAg/CHROME/mid/3598998514603/2551947463339/video.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports B
 http://bdiptv.net:8082/SKY-SPORTS-CRICKET/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports C
