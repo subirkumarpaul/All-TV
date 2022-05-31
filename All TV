@@ -43,6 +43,8 @@ http://103.167.190.250/hls/t-sports.m3u8
 http://tv2.ebox.live:8080/live/nk-sixs.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Fire TV",T Sports(Fire TV)
 http://103.60.172.106:8080/TSports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Fire TV",T Sports(Fire TV)
+http://103.60.172.106:8080/TSportsHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="BDIPTV",T Sports(BDIPTV)
 http://bdiptv.net:8082/tsp/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png"group-title="Aliflailabd",T Sports(Aliflailabd)
@@ -323,6 +325,8 @@ http://tvserver.aliflailabd.com:8989/zee-bangla/index.m3u8
 http://10.16.100.204:8082/hls/zeeb@ngla.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png"group-title="Flixhub",Colors Bangla(Flixhub)
 http://103.167.190.250/hls/colorsbangla.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png"group-title="Fire TV",Colors Bangla(Fire TV)
+http://103.60.172.106:8080/ColorsBanglaHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png"group-title="Amrbd",Colors Bangla(Amrbd)
 http://103.136.200.246:8082/colorsbangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png"group-title="Aliflailabd",Colors Bangla(Aliflailabd)
@@ -374,10 +378,12 @@ http://103.167.190.250/hls/starplus.m3u8
 http://tvserver.aliflailabd.com:8989/star-plus/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png"group-title="Flixhub",Colors(Flixhub)
 http://103.167.190.250/hls/colore-tv-hd.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png"group-title="Fire TV",Colors(Fire TV)
+http://103.60.172.106:8080/Colors/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png"group-title="Amrbd",Colors(Amrbd)
 http://103.136.200.246:8082/colorsindia/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png"group-title="Aliflailabd",Colors(Aliflailabd)
-http://tvserver.aliflailabd.com:8989/colors-hd/index.m3u8
+http://tvserver.aliflailabd.com:8989/coTVrs-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png"group-title="Flixhub",Zee TV(Flixhub)
 http://103.167.190.250/hls/zeetv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/UTV%20Action.png"group-title="Flixhub",UTV Action(Flixhub)
@@ -587,6 +593,8 @@ http://103.167.190.250/hls/animalplanent.m3u8
 http://103.167.190.250/hls/dis-kid.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="Flixhub",Nick(Flixhub)
 http://103.167.190.250/hls/nick.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="Fire TV",Nick(Fire TV)
+http://103.60.172.106:8080/Nick/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="Aliflailabd",Nick(Aliflailabd)
 http://tvserver.aliflailabd.com:8989/nick/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png"group-title="Flixhub",Cartoon Network(Flixhub)
@@ -669,6 +677,8 @@ https://live.hungama.com/linear/pop-pataka/playlist_1080p/index.m3u8
 http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 tvg-logo=""group-title="Fire TV",NDTV 24/7(Fire TV)
+http://103.60.172.106:8080/NDTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png"group-title="Flixhub",Aljazeera(Flixhub)
 http://103.167.190.250/hls/aljazeera.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png"group-title="Aliflailabd",Al Jazeera(Aliflailabd)
