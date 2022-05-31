@@ -493,6 +493,8 @@ http://10.16.100.207:8082/sports/ssportsselect2hd_1$top.m3u8
 http://103.167.190.250/hls/sonyten1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Ten%201%40.jpg"group-title="Fire TV",Sony Ten 1(Fire TV)
 http://103.60.172.106:8080/SonyTen1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Ten%201%40.jpg"group-title="EBOX",Sony Ten 1(EBOX)
+http://tv2.ebox.live:8080/live/sonyten-1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Ten%201.png"group-title="Amrbd",Sony Ten 1(Amrbd)
 http://103.136.200.246:8082/Ten1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Ten%201%40.jpg"group-title="Aliflailabd",Sony Ten 1(Aliflailabd)
@@ -505,6 +507,8 @@ http://dds.oncast.me:1934/dlive/sp1.stream/playlist.m3u8
 http://103.167.190.250/hls/sonyten2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Ten%202.png"group-title="Fire TV",Sony Ten 2(Fire TV)
 http://103.60.172.106:8080/SonyTen2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Ten%202.png"group-title="EBOX",Sony Ten 2(EBOX)
+http://tv2.ebox.live:8080/live/sonyten-2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Ten%202.png"group-title="Amrbd",Sony Ten 2(Amrbd)
 http://103.136.200.246:8082/Ten2/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Ten%202.png"group-title="Aliflailabd",Sony Ten 2(Aliflailabd)
@@ -517,6 +521,8 @@ http://bdiptv.net:8082/SONY-TEN-2-HD/index.m3u8
 http://103.167.190.250/hls/sonyten3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Siny%20Ten%203.png"group-title="Fire TV",Sony Ten 3(Fire TV)
 http://103.60.172.106:8080/SonyTen3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Siny%20Ten%203.png"group-title="EBOX",Sony Ten 3(EBOX)
+http://tv2.ebox.live:8080/live/sonyten-3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Siny%20Ten%203.png"group-title="Amrbd",Sony Ten 3(Amrbd)
 http://103.136.200.246:8082/Ten3/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Siny%20Ten%203.png"group-title="Aliflailabd",Sont Ten 3(Aliflailabd)
