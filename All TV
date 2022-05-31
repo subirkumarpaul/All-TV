@@ -55,6 +55,8 @@ http://10.16.100.203:8082/bangla/t$ports_1$top.m3u8
 http://10.16.100.207:8082/sports/Tsports_1stop.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.png"group-title="Flixhub",Gazi TV(Flixhub)
 http://103.167.190.250/hls/Gazi-TV.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.png"group-title="Fire TV",Gazi TV(FirebTV)
+http://103.60.172.106:8080/GaziTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.png"group-title="Flixhub",Gazi TV(Flixhub)2
 http://103.55.144.46/hls/Gazi-TV.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.png"group-title="Amrbd",Gazi TV(Amrbd)
@@ -101,6 +103,8 @@ http://tvserver.aliflailabd.com:8989/maasranga/index.m3u8
 http://10.16.100.208:8082/hindi/m@sranga_1stOP.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Maasranga%20TV.png"group-title="BD2",Maasranga TV(BD2)
 http://iptv.kitv.live:1935/live/maasrangalive/HODMTV/1.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png"group-title="Fore TV",Ekushay TV(Fire TV)
+http://103.60.172.106:8080/EkusheyTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png"group-title="Amrbd",Ekushay TV(Amrbd)
 http://103.136.200.246:8082/Ekushey-TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekushey%20TV.png"group-title="Aliflailabd",Ekushey TV(Aliflailabd)
@@ -221,6 +225,8 @@ http://103.136.200.246:8082/Independent-Tv/index.m3u8
 http://tvserver.aliflailabd.com:8989/independent-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Independent%20Television.png"group-title="Jagobd",Independent TV(Jagobd)
 http://iptvbd.jagobd.com:1931/live-orgin/independent-8-org.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekattor%20TV.png"group-title="Fire TV",Ekattor TV(Fire TV)
+http://103.60.172.106:8080/EkattorTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekattor%20TV.png"group-title="Amrbd",Ekattor TV(Amrbd)
 http://103.136.200.246:8082/Ekattor-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekattor%20TV.png"group-title="Aliflailabd",Ekattor TV(Aliflailabd)
