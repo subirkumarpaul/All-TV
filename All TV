@@ -295,10 +295,13 @@ http://103.136.200.246:8082/GaanBangla/index.m3u8
 http://tvserver.aliflailabd.com:8989/gaanbangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gaan%20Bangla.png"group-title="ICC",Gaan Bangla(ICC)
 http://10.16.100.203:8082/bangla/Ganbangla_riptv.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Music.png"group-title="Fire TV",ATN Bangla(Fire TV)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Music.png"group-title="Fire TV",ATN Music(Fire TV)
 http://103.60.172.106:8080/ATNMusic/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Aath.png"group-title="Flixhub",Sony Aath(Flixhub)
 http://103.167.190.250/hls/Sony_Aath.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Aath.png"group-title="Fire TV",Sony Aath(Fire TV)
+http://103.60.172.106:8080/SonyAath/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Aath.png"group-title="Amrbd",Sony Aath(Amrbd)
 http://103.136.200.246:8082/Sonyaath/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Aath.png"group-title="Aliflailabd",Sony Aath(Aliflailabd)
@@ -687,6 +690,8 @@ http://103.60.172.106:8080/NDTV/tracks-v1a1/mono.m3u8
 http://103.60.172.106:8080/IndiaToday/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png"group-title="Flixhub",Aljazeera(Flixhub)
 http://103.167.190.250/hls/aljazeera.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png"group-title="Fire TV",Aljazeera(Fire TV)
+http://103.60.172.106:8080/Aljazeera/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png"group-title="Aliflailabd",Al Jazeera(Aliflailabd)
 http://tvserver.aliflailabd.com:8989/aljazeera-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BBC%20World%20News.png"group-title="Flixhub",BBC World(Flixhub)
@@ -699,6 +704,8 @@ http://tvserver.aliflailabd.com:8989/dw/index.m3u8
 http://103.60.172.106:8080/DW/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Fire TV",CGTN(Fire TV)
 http://103.60.172.106:8080/CGTN/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Fire TV",Bloomberg TV(Fire TV)
+http://103.60.172.106:8080/BloombergTV/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="BD BANGLA" tvg-logo="https://imgpile.com/images/58J4A1.jpg",BANGLA 21 TV [BD]
 https://cdn.appv.jagobd.com:444/live-orgin/bangla21tv000889956-sg.stream/chunks.m3u8
