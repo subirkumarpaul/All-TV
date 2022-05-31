@@ -562,6 +562,8 @@ http://bdiptv.net:8082/Adsports1/index.m3u8
 http://bdiptv.net:8082/tv13/index.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BDIPTV",AD Sports 3(BDIPTV)
 http://bdiptv.net:8082/tv14/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Fire TV",Redbull TV(Fire TV)
+http://103.60.172.106:8080/RedBullTVHD/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20.png"group-title="Flixhub",Discovery HD(Flixhub)
@@ -679,6 +681,8 @@ http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo=""group-title="Fire TV",NDTV 24/7(Fire TV)
 http://103.60.172.106:8080/NDTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Fire TV",India Today(Fire TV)
+http://103.60.172.106:8080/IndiaToday/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png"group-title="Flixhub",Aljazeera(Flixhub)
 http://103.167.190.250/hls/aljazeera.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Al%20Jazeera%20.png"group-title="Aliflailabd",Al Jazeera(Aliflailabd)
