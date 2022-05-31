@@ -25,6 +25,8 @@ http://103.106.2.152:13456/btv.m3u8
 http://tvserver.aliflailabd.com:8989/btv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="ICC",BTV National(ICC)
 http://10.16.100.203:8082/bangla/BTv_NatiOnal_1stop.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20World.png"group-title="Fire TV",BTV World(Fire TV)
+http://103.60.172.106:8080/BTVWorld/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20World.png"group-title="Aliflailabd",BTV World(Aliflailabd)
 http://tvserver.aliflailabd.com:8989/btv-world/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20World.png"group-title="ICC",BTV World(ICC)
@@ -67,6 +69,8 @@ http://10.16.100.245/hindi/Gazitv_1Stop.m3u8
 http://10.16.100.207:8082/sports/GaZitV_1stOp.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gazi%20TV.png"group-title="ICC",Gazi TV(ICC)
 http://10.16.100.203:8082/bangla/GaZItv_1$top.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Fire TV",ATN Bangla(Fire TV)
+http://103.60.172.106:8080/ATNBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="Amrbd",ATN Bangla(Amrbd)
 http://103.136.200.246:8082/ATN-Bangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Bangla.png"group-title="BDIPTV",ATN Bangla(BDIPTV)
@@ -217,6 +221,8 @@ http://iptvbd.jagobd.com:1931/live-orgin/independent-8-org.stream/chunks.m3u8
 http://103.136.200.246:8082/Ekattor-tv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ekattor%20TV.png"group-title="Aliflailabd",Ekattor TV(Aliflailabd)
 http://tvserver.aliflailabd.com:8989/ekattor/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20News.png"group-title="Fire TV",ATN News(Fire TV)
+http://103.60.172.106:8080/ATNBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20News.png"group-title="Amrbd",ATN News(Amrbd)
 http://103.136.200.246:8082/Atn-News/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20News.png"group-title="Aliflailabd",ATN News(Aliflailabd)
