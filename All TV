@@ -320,6 +320,8 @@ http://tvserver.aliflailabd.com:8989/star-jalsha/index.m3u8
 http://10.16.100.204:8082/hls/st@rj@lsha.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="Flixhub",Zee Bangla HD(Flixhub)
 http://103.167.190.250/hls/zeebanglahd.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="Fire TV",Zee Bangla HD(Fire TV)
+http://103.60.172.106:8080/ZeeBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="Amrbd",Zee Bangla HD(Amrbd)
 http://103.136.200.246:8082/ZeeBanglaHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="Aliflailabd",Zee Bangla(Aliflailabd)
