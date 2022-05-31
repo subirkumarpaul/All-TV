@@ -121,6 +121,8 @@ http://103.136.200.246:8082/Ntv/index.m3u8
 http://tvserver.aliflailabd.com:8989/ntv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/NTV.png"group-title="BD2",NTV UK(BD2)
 https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png"group-title="Fire TV",RTV(Fire TV)
+http://103.60.172.106:8080/RTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png"group-title="Amrbd",RTV(Amrbd)
 http://103.136.200.246:8082/RTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png"group-title="Aliflailabd",RTV(Aliflailabd)
@@ -481,7 +483,7 @@ http://bdiptv.net:8082/SONY-TEN-2-HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Siny%20Ten%203.png"group-title="Flixhub",Sony Ten 3(Flixhub)
 http://103.167.190.250/hls/sonyten3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Siny%20Ten%203.png"group-title="Fire TV",Sony Ten 3(Fire TV)
-http://103.60.172.106:8080/SonyTen2/tracks-v1a1/mono.m3u8
+http://103.60.172.106:8080/SonyTen3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Siny%20Ten%203.png"group-title="Amrbd",Sony Ten 3(Amrbd)
 http://103.136.200.246:8082/Ten3/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Siny%20Ten%203.png"group-title="Aliflailabd",Sont Ten 3(Aliflailabd)
