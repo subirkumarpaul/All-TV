@@ -650,6 +650,8 @@ http://103.55.144.46/hls/nick.m3u8
 http://103.60.172.106:8080/Nick/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nick.png"group-title="Aliflailabd",Nick(Aliflailabd)
 http://tvserver.aliflailabd.com:8989/nick/index.m3u8
+#EXTINF:-1 tvg-logo=""group-title="BD2",Sonic(BD2)
+http://144.217.70.181:9587/hin2/SONIC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png"group-title="Flixhub",Cartoon Network(Flixhub)
 http://103.55.144.46/hls/cn.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Cartoon%20Network.png"group-title="Aliflailabd",Cartoon Network(Aliflailabd)
