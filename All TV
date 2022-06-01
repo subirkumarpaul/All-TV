@@ -823,3 +823,29 @@ http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 #EXTINF:-1,TV
 https://live.thairath.co.th/trtv2/playlist.m3u8
 
+
+#EXTINF:-1,BTV 
+http://208.86.19.13:81/627.stream/index.m3u8 
+#EXTINF:-1,Channel 9 HD 
+http://208.86.19.13:81/608.stream/index.m3u8 
+#EXTINF:-1,Deepto TV HD 
+http://208.86.19.13:81/609.stream/index.m3u8 
+#EXTINF:-1,ATN BANGLA 
+http://208.86.19.13:81/626.stream/index.m3u8 
+#EXTINF:-1,Desh TV 
+http://208.86.19.13:81/629.stream/index.m3u8 
+#EXTINF:-1,Ekusey TV 
+http://208.86.19.13:81/620.stream/index.m3u8 
+#EXTINF:-1,SATV 
+http://208.86.19.13:81/613.stream/index.m3u8 
+#EXTINF:-1,My TV BD 
+http://208.86.19.13:80/651.stream/index.m3u8 
+#EXTINF:-1,NTV BD 
+http://208.86.19.13:80/652.stream/index.m3u8 
+#EXTINF:-1,ATN Bangla 
+http://208.86.19.13:80/664.stream/index.m3u8 
+#EXTINF:-1,MOHONA TV 
+http://208.86.19.13:80/681.stream/index.m3u8
+#EXTINF:-1,Sun Bangla
+http://208.86.19.13:81/903.stream/index.m3u8
+
