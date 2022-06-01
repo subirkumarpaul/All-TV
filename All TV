@@ -816,6 +816,10 @@ http://221.120.204.4/SONY-MAX-LOCKLE/index.m3u8
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Colors HD
 http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1,PTV Sports
+http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
+#EXTINF:-1,A Sports
+http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 #EXTINF:-1,TV
 https://live.thairath.co.th/trtv2/playlist.m3u8
 
