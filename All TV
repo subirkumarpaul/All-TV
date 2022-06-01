@@ -850,4 +850,9 @@ http://208.86.19.13:80/664.stream/index.m3u8
 http://208.86.19.13:80/681.stream/index.m3u8
 #EXTINF:-1,Sun Bangla
 http://208.86.19.13:81/903.stream/index.m3u8
-
+#EXTINF:-1,Ten Sports PK
+http://208.86.19.13:81/711.stream/index.m3u8
+#EXTINF:-1,Sony Ten 2
+http://208.86.19.13:81/712.stream/index.m3u8
+#EXTINF:-1,Sony Ten 3
+http://208.86.19.13:81/713.stream/index.m3u8
