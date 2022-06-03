@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports A
 http://iptvbd.jagobd.com:1931/live-orgin/titash.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports B
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports B Sony Liv
 https://sonydaimenew.akamaized.net/linear/hls/pb/event/b4syULaIS9uJBor6MB0Gcg/stream/eaac62a8-5933-4991-90ed-0659ff209b6a:SIN2/variant/f0bb3f9032f70aa67b1d1262e92b5d74/bandwidth/hdntl=exp=1654341164~acl=%2f*~id=17fc3c17-8bd0-4160-b43d-31d50b627f6b~data=hdntl~hmac=ff6e1080acb6afb75e80c128c797d012d361cb9d1d01de3bc6849c9f5216a61e/3332544.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports C
 http://bdiptv.net:8082/WILLOW-CRICKET-HD/index.m3u8
