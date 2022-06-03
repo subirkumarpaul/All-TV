@@ -417,6 +417,8 @@ http://103.136.200.246:8082/ZeeCinemaHD/index.m3u8
 http://103.55.144.46/hls/stargold.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png"group-title="Amrbd",Star Gold(Amrbd)
 http://103.136.200.246:8082/StarGold/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png"group-title="BD2",Star Gold(BD2)
+http://dtvipl.ipq.co:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png"group-title="Aliflailabd",Star Gold(Aliflailabd)
 http://tvserver.aliflailabd.com:8989/star-gold/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Glod%202.png"group-title="Flixhub",Star Gold 2(Flixhub)
