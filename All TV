@@ -870,5 +870,99 @@ http://208.86.19.13:81/713.stream/index.m3u8
 http://208.86.19.13:81/714.stream/index.m3u8
 
 
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",STAR PLUS(IN)
+http://144.217.70.181:9587/hin2/STARPLUSHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",STAR BHARAT HD (IN)
+http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",STAR PLUS HD (IN)
+http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",SAHARA ONE (IN)
+http://144.217.70.181:9587/hin2/SAHARAONE/playlist.m3u8
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",UTV HD (IN)
+http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",STAR GOLD HD (IN)
+http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",ZEE CLASSIC (IN)
+http://144.217.70.181:9587/hin2/ZEECLASSICHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",ZEE CINEMA HD (IN)
+http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",Zee action Hd
+http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",ZEE ANMOL CINEMA (IN)
+http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",SONY MAX 2 (IN)
+http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",B4U MOVIES (IN)
+http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",B4U MUSIC (IN)
+http://144.217.70.181:9587/hin2/B4UMUSIC/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",ZOOM (IN)
+http://144.217.70.181:9587/hin2/ZOOM/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",MTV (IN)
+http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",MTV BEATS HD (IN)
+http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",Star gold hd
+http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR BHARAT HD" tvg-logo="" group-title="INDIAN SPECIAL 2",STAR BHARAT HD
+http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR GOLD HD " tvg-logo="" group-title="INDIAN SPECIAL 2",STAR GOLD HD 
+http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="STAR PLUS HD" tvg-logo="" group-title="INDIAN SPECIAL 2",STAR PLUS HD
+http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UTV HD" tvg-logo="" group-title="INDIAN SPECIAL 2",UTV HD
+http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE ACTION " tvg-logo="" group-title="INDIAN SPECIAL 2",ZEE ACTION 
+http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE ANMOL CINEMA " tvg-logo="" group-title="INDIAN SPECIAL 2",ZEE ANMOL CINEMA 
+http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE CINEMA HD " tvg-logo="" group-title="INDIAN SPECIAL 2",ZEE CINEMA HD 
+http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE CLASSIC " tvg-logo="" group-title="INDIAN SPECIAL 2",ZEE CLASSIC 
+http://144.217.70.181:9587/hin2/ZEECLASSICHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="STAR PLUS HD" tvg-name="STAR PLUS HD (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="Star Network",STAR PLUS HD (IN)
+http://144.217.70.181:9587/hin2/STARPLUSUK/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="STAR BHARAT HD" tvg-name="STAR BHARAT HD (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="Star Network",STAR BHARAT HD (IN)
+http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8
+#EXTINF:-1 tvg-id="STAR PLUS HD" tvg-name="STAR PLUS HD (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="Star Network",STAR PLUS HD (IN)
+http://144.217.70.181:9587/hin2/STARPLUSHD/index.m3u8
+#EXTINF:-1 tvg-id="ZEE TV HD" tvg-name="ZEE TV (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="Star Network",ZEE TV (UK)
+http://144.217.70.181:9587/hin2/ZEETVUK/playlist.m3u8
+#EXTINF:-1 tvg-id="ZEE TV HD" tvg-name="ZEE TV HD (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="Star Network",ZEE TV HD (IN)
+http://144.217.70.181:9587/hin2/ZEETVHD/index.m3u8
+#EXTINF:-1 tvg-id="COLORS HD" tvg-name="COLORS HD (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="Star Network",COLORS HD (IN)
+http://144.217.70.181:9587/hin2/COLORSHD/index.m3u8
+#EXTINF:-1 tvg-id="COLORS HD" tvg-name="COLORS HD (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="Star Network",COLORS HD (IN)
+http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8
+#EXTINF:-1 tvg-id="SAHARA ONE" tvg-name="SAHARA ONE (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="Star Network",SAHARA ONE (IN)
+http://144.217.70.181:9587/hin2/SAHARAONE/playlist.m3u8
+#EXTINF:-1 tvg-id="UTV HD" tvg-name="UTV HD (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="Star Network",UTV HD (IN)
+http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="STAR GOLD HD" tvg-name="STAR GOLD HD (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="Star Network",STAR GOLD HD (IN)
+http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="STAR GOLD HD" tvg-name="STAR GOLD HD (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="Star Network",STAR GOLD HD (IN)
+http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="STAR GOLD 2" tvg-name="STAR GOLD 2 (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="Star Network",STAR GOLD 2 (IN)
+http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ZEE CINEMA HD" tvg-name="ZEE CINEMA HD (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="Star Network",ZEE CINEMA HD (IN)
+http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ZEE CLASSIC" tvg-name="ZEE CLASSIC (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="Star Network",ZEE CLASSIC (IN)
+http://144.217.70.181:9587/hin2/ZEECLASSICHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ZEE ACTION" tvg-name="ZEE ACTION (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="Star Network",ZEE ACTION (IN)
+http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ZEE ANMOL CINEMA" tvg-name="ZEE ANMOL CINEMA (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="Star Network",ZEE ANMOL CINEMA (IN)
+http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY MAX 2 (IN)" tvg-logo="SONY MAX 2" group-title="Star Network",SONY MAX 2 (IN)
+http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="B4U MOVIES" tvg-name="B4U MOVIES (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="Star Network",B4U MOVIES (IN)
+http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="E24" tvg-name="E24 (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="Star Network",E24 (IN)
+http://144.217.70.181:9587/hin2/E24/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="ZOOM" tvg-name="ZOOM (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="Star Network",ZOOM (IN)
+http://144.217.70.181:9587/hin2/ZOOM/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="Star Network",MTV (IN)
+http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="MTV BEATS HD" tvg-name="MTV BEATS HD (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="Star Network",MTV BEATS HD (IN)
+http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
 
 
