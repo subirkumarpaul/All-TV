@@ -909,10 +909,6 @@ http://144.217.70.181:9587/hin2/B4UMUSIC/tracks-v1a1/mono.m3u8
 http://144.217.70.181:9587/hin2/ZOOM/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="IPTV Channels" tvg-logo="",MTV (IN)
 http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
-#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",MTV BEATS HD (IN)
-http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="ZEE ANMOL CINEMA " tvg-logo="" group-title="INDIAN SPECIAL 2",ZEE ANMOL CINEMA 
-http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="STAR PLUS HD" tvg-name="STAR PLUS HD (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="Star Network",STAR PLUS HD (IN)
 http://144.217.70.181:9587/hin2/STARPLUSUK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="ZEE TV HD" tvg-name="ZEE TV (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="Star Network",ZEE TV (UK)
@@ -927,19 +923,7 @@ http://144.217.70.181:9587/hin2/COLORSUK/index.m3u8
 http://144.217.70.181:9587/hin2/STARGOLDUK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="STAR GOLD 2" tvg-name="STAR GOLD 2 (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="Star Network",STAR GOLD 2 (IN)
 http://144.217.70.181:9587/hin2/STARGOLD2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ZEE ANMOL CINEMA" tvg-name="ZEE ANMOL CINEMA (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="Star Network",ZEE ANMOL CINEMA (IN)
-http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY MAX 2 (IN)" tvg-logo="SONY MAX 2" group-title="Star Network",SONY MAX 2 (IN)
-http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="B4U MOVIES" tvg-name="B4U MOVIES (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="Star Network",B4U MOVIES (IN)
-http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="E24" tvg-name="E24 (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="Star Network",E24 (IN)
 http://144.217.70.181:9587/hin2/E24/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ZOOM" tvg-name="ZOOM (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="Star Network",ZOOM (IN)
-http://144.217.70.181:9587/hin2/ZOOM/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="MTV" tvg-name="MTV (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="Star Network",MTV (IN)
-http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="MTV BEATS HD" tvg-name="MTV BEATS HD (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="Star Network",MTV BEATS HD (IN)
-http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
 
 
