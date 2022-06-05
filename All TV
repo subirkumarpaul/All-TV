@@ -918,47 +918,7 @@ http://208.86.19.13:81/711.stream/index.m3u8
 http://208.86.19.13:81/712.stream/index.m3u8
 #EXTINF:-1,Sony Ten 3
 http://208.86.19.13:81/713.stream/index.m3u8
-
+#EXTINF:-1,Sony Ten
 http://208.86.19.13:81/714.stream/index.m3u8
-
-
-
-#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",STAR BHARAT HD (IN)
-
-
-#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",STAR GOLD HD (IN)
-
-#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",ZEE CLASSIC (IN)
-
-#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",ZEE CINEMA HD (IN)
-
-#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",Zee action Hd
-
-#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",ZEE ANMOL CINEMA (IN)
-
-#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",SONY MAX 2 (IN)
-
-#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",B4U MOVIES (IN)
-
-#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",B4U MUSIC (IN)
-
-#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",ZOOM (IN)
-
-#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",MTV (IN)
-
-#EXTINF:-1 tvg-id="ZEE TV HD" tvg-name="ZEE TV (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="Star Network",ZEE TV (UK)
-
-#EXTINF:-1 tvg-id="ZEE TV HD" tvg-name="ZEE TV HD (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="Star Network",ZEE TV HD (IN)
-
-#EXTINF:-1 tvg-id="COLORS HD" tvg-name="COLORS HD (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="Star Network",COLORS HD (IN)
-
-#EXTINF:-1 tvg-id="COLORS HD" tvg-name="COLORS HD (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="Star Network",COLORS HD (IN)
-
-#EXTINF:-1 tvg-id="STAR GOLD HD" tvg-name="STAR GOLD HD (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="Star Network",STAR GOLD HD (IN)
-
-#EXTINF:-1 tvg-id="STAR GOLD 2" tvg-name="STAR GOLD 2 (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="Star Network",STAR GOLD 2 (IN)
-
-#EXTINF:-1 tvg-id="E24" tvg-name="E24 (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="Star Network",E24 (IN)
-http://144.217.70.181:9587/hin2/E24/tracks-v1a1/mono.m3u8
 
 
