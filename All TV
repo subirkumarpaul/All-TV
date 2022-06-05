@@ -399,6 +399,8 @@ http://144.217.70.181:9587/hin2/STARPLUSHD/tracks-v1a1/mono.m3u8
 http://144.217.70.181:9587/hin2/STARPLUSUK/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png"group-title="BD2",Star Bharat(BD2)
 http://103.72.179.30:1935/GECHindi/STAR_BHARAT.stream_720p/Playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Plus.png"group-title="BD3",Star Bharat(BD3)
+http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png"group-title="Flixhub",Colors(Flixhub)
 http://103.55.144.46/hls/colore-tv-hd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png"group-title="BD2",Colors(BD2)
@@ -409,6 +411,8 @@ http://103.136.200.246:8082/colorsindia/index.m3u8
 http://tvserver.aliflailabd.com:8989/coTVrs-hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20TV.png"group-title="Flixhub",Zee TV(Flixhub)
 http://103.55.144.46/hls/zeetv.m3u8
+#EXTINF:-1  group-title="BD3" tvg-logo="",SAHARA ONE (BD3)
+http://144.217.70.181:9587/hin2/SAHARAONE/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/UTV%20Action.png"group-title="Flixhub",UTV Action(Flixhub)
 http://103.55.144.46/hls/utvaction.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/UTV%20Action.png"group-title="BD2",UTV Action(BD2)
@@ -423,11 +427,17 @@ hls/zeecinemahd.m3u8
 http://103.60.172.106:8080/ZeeCinemaHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="Amrbd",Zee Cinema HD(Amrbd)
 http://103.136.200.246:8082/ZeeCinemaHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Cinema.png"group-title="BD3",Zee Cinema HD(BD3)
+http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=""group-title="BD3",Zee Action HD(BD3)
+http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=""group-title="BD3",Zee Classic(BD3)
+http://144.217.70.181:9587/hin2/ZEECLASSICHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png"group-title="Flixhub",Star Gold HD(Flixhub)
 http://103.55.144.46/hls/stargold.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png"group-title="Amrbd",Star Gold(Amrbd)
 http://103.136.200.246:8082/StarGold/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png"group-title="BD2",Star Gold(BD2)
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png"group-title="BD3",Star Gold(BD3)
 http://dtvipl.ipq.co:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png"group-title="Aliflailabd",Star Gold(Aliflailabd)
 http://tvserver.aliflailabd.com:8989/star-gold/index.m3u8
@@ -889,15 +899,14 @@ http://208.86.19.13:81/714.stream/index.m3u8
 
 
 #EXTINF:-1  group-title="IPTV Channels" tvg-logo="",STAR BHARAT HD (IN)
-http://144.217.70.181:9587/hin2/STARBHARATUK/playlist.m3u8
-#EXTINF:-1  group-title="IPTV Channels" tvg-logo="",SAHARA ONE (IN)
-http://144.217.70.181:9587/hin2/SAHARAONE/playlist.m3u8
+
+
 #EXTINF:-1  group-title="IPTV Channels" tvg-logo="",STAR GOLD HD (IN)
-http://144.217.70.181:9587/hin2/STARGOLDHD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1  group-title="IPTV Channels" tvg-logo="",ZEE CLASSIC (IN)
-http://144.217.70.181:9587/hin2/ZEECLASSICHD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1  group-title="IPTV Channels" tvg-logo="",ZEE CINEMA HD (IN)
-http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1  group-title="IPTV Channels" tvg-logo="",Zee action Hd
 http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="IPTV Channels" tvg-logo="",ZEE ANMOL CINEMA (IN)
