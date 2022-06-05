@@ -12,7 +12,7 @@ https://ranapk.ml/Sony_Liv-5.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 6
 http://217.74.16.155:8082/local/ar-s/bein-5-stop/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 7
-http://iptvbd.jagobd.com:1931/live-orgin/titash.stream/chunks.m3u8
+https://live-ak.vimeocdn.com/exp=1654455693~acl=%2F6e39130a-9c30-4ddf-812a-9e8a01d96561%2F%2A~hmac=b00d08bf6326acd151a7c6a5c79cc654da20d0922bb5055e2ddc6b8b995fb6bd/6e39130a-9c30-4ddf-812a-9e8a01d96561/chunklist_b2056000.m3u8?max_segments=10
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 8
 https://live.tvdhaka.com:30443/Channel-1/tracks-v1a1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 9
