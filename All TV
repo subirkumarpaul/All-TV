@@ -433,6 +433,8 @@ http://144.217.70.181:9587/hin2/ZEECINEMAHD/tracks-v1a1/mono.m3u8
 http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD3",Zee Classic(BD3)
 http://144.217.70.181:9587/hin2/ZEECLASSICHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo=""group-title="BD3",Zee Anmol Cinema(BD3)
+http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png"group-title="Flixhub",Star Gold HD(Flixhub)
 http://103.55.144.46/hls/stargold.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Gold.png"group-title="Amrbd",Star Gold(Amrbd)
@@ -455,6 +457,8 @@ http://103.60.172.106:8080/SonyMaxHD/tracks-v1a1/mono.m3u8
 http://103.136.200.246:8082/Sony-Max/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Set%20Max.png"group-title="Aliflailabd",Sony Max(Aliflailabd)
 http://tvserver.aliflailabd.com:8989/setmax/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Set%20Max.png"group-title="BD3",Sony Max 2(BD3)
+http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="FirevTV",Sony Wah(Fire TV)
 http://103.60.172.106:8080/SonyWah/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Cineplax.png"group-title="Flixhub",Colors Cineplex(Flixhub)
@@ -469,6 +473,8 @@ http://103.60.172.106:8080/BflixMovies/tracks-v1a1/mono.m3u8
 http://103.136.200.246:8082/bflix/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png"group-title="Aliflailabd",B4U Movies(Aliflailabd)
 http://tvserver.aliflailabd.com:8989/b4u-movies/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png"group-title="BD3",B4U Movies(BD3)
+http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DHINCHAAK (IN)" tvg-logo="" group-title="BD2",DHINCHAAK (IN)
 http://14.199.164.20:4001/play/a0o5/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="DHINCHAAK 2 (IN)" tvg-logo="" group-title="BD2",DHINCHAAK 2 (IN)
@@ -738,10 +744,14 @@ http://tvserver.aliflailabd.com:8989/9X-JALWA/index.m3u8
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Music.png"group-title="Aliflailabd",B4U Music(Aliflailabd)
 http://tvserver.aliflailabd.com:8989/b4u-music/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Music.png"group-title="BD3",B4U Music(BD3)
+http://144.217.70.181:9587/hin2/B4UMUSIC/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ZOOM.png"group-title="Flixhub",Zoom(Flixhub)
 http://103.55.144.46/hls/zoom.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ZOOM.png"group-title="Fire TV",Zoom(Fire TV)
 http://103.60.172.106:8080/Zoom/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ZOOM.png"group-title="BD3",Zoom(BD3)
+http://144.217.70.181:9587/hin2/ZOOM/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bindass.png"group-title="Flixhub",Bindass(Flixhub)
 http://103.55.144.46/hls/bindass.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Masti%20TV.jpeg"group-title="Aliflailabd",Masti Music(Aliflailabd)
@@ -750,6 +760,8 @@ http://tvserver.aliflailabd.com:8989/musti-music/index.m3u8
 http://103.60.172.106:8080/MTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MTV.png"group-title="Aliflailabd",MTV(Aliflailabd)
 http://tvserver.aliflailabd.com:8989/mtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MTV.png"group-title="BD3",MTV(BD3)
+http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fHvAoM9"group-title="BD2",Hangama Music(BD2)
 https://live.hungama.com/linear/dil-se/playlist_3.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GizchDO"group-title="BD3", Kadak Music(BD2)
@@ -908,19 +920,19 @@ http://208.86.19.13:81/714.stream/index.m3u8
 #EXTINF:-1  group-title="IPTV Channels" tvg-logo="",ZEE CINEMA HD (IN)
 
 #EXTINF:-1  group-title="IPTV Channels" tvg-logo="",Zee action Hd
-http://144.217.70.181:9587/hin2/ZEEACTION/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1  group-title="IPTV Channels" tvg-logo="",ZEE ANMOL CINEMA (IN)
-http://144.217.70.181:9587/hin2/ZEEANMOLCINEMA/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1  group-title="IPTV Channels" tvg-logo="",SONY MAX 2 (IN)
-http://144.217.70.181:9587/hin2/SONYMAX2/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1  group-title="IPTV Channels" tvg-logo="",B4U MOVIES (IN)
-http://144.217.70.181:9587/hin2/B4UMOVIES/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1  group-title="IPTV Channels" tvg-logo="",B4U MUSIC (IN)
-http://144.217.70.181:9587/hin2/B4UMUSIC/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1  group-title="IPTV Channels" tvg-logo="",ZOOM (IN)
-http://144.217.70.181:9587/hin2/ZOOM/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1  group-title="IPTV Channels" tvg-logo="",MTV (IN)
-http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-id="ZEE TV HD" tvg-name="ZEE TV (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="Star Network",ZEE TV (UK)
 http://144.217.70.181:9587/hin2/ZEETVUK/playlist.m3u8
 #EXTINF:-1 tvg-id="ZEE TV HD" tvg-name="ZEE TV HD (IN)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/IPTV.png" group-title="Star Network",ZEE TV HD (IN)
