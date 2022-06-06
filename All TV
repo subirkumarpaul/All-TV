@@ -1051,4 +1051,23 @@ http://103.153.39.36:8000/play/a01z
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iTwlUhK.png" group-title="Airtel TV", nick HD+- Rs 10
 http://103.153.39.36:8000/play/a01c
 
-
+#EXTINF:-1,BEIN SPORTS 01
+http://217.74.16.155:8082/local/ar-s/bein-1-stop/index.m3u8
+#EXTINF:-1,BEIN SPORTS 02
+http://217.74.16.155:8082/local/ar-s/bein-2-stop/tracks-v1a1/mono.m3u8
+#EXTINF:-1,BEIN SPORTS 03
+http://217.74.16.155:8082/local/ar-s/bein-3-stop/tracks-v1a1/mono.m3u8
+#EXTINF:-1,BEIN SPORTS 04
+http://217.74.16.155:8082/local/ar-s/bein-4-stop/tracks-v1a1/mono.m3u8
+#EXTINF:-1,BEIN SPORTS 05
+http://217.74.16.155:8082/local/ar-s/bein-5-stop/index.m3u8
+#EXTINF:-1,BEIN SPORTS 06
+http://217.74.16.155:8082/local/ar-s/bein-6-stop/tracks-v1a1/mono.m3u8
+#EXTINF:-1,BEIN SPORTS 7
+http://217.74.16.155:8082/local/ar-s/bein-7-stop/tracks-v1a1/mono.m3u8
+#EXTINF:-1,BEIN sports  premier 1
+http://217.74.16.155:8082/local/ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8
+#EXTINF:-1,BEIN sports  premier 2
+http://217.74.16.155:8082/local/ar-s/B-S-pre-2-stop/tracks-v1a1/mono.m3u8
+#EXTINF:-1,BEIN sports  premier 3
+http://217.74.16.155:8082/local/ar-s/B-S-pre-3-stop/tracks-v1a1/mono.m3u8
