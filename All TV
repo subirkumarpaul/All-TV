@@ -295,8 +295,8 @@ http://10.16.100.203:8082/bangla/DbcNews_riptv_21.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/dbcnews.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gaan%20Bangla.png"group-title="Jagobd",Gaan Bangla(Jagobd)
 https://somoy.appv.jagobd.com:444/somoy/gaanbangla-8-orgd.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gaan%20Bangla.png"group-title="EBOX",Gaan Bangla(EBOX)
-http://tv2.ebox.live:8080/live/ex-gan.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gaan%20Bangla.png"group-title="BDIX",Gaan Bangla(BDIX)
+http://103.159.4.38:9191/CH28-INBD7/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gaan%20Bangla.png"group-title="Amrbd",Gaan Bangla(Amrbd)
 http://103.136.200.246:8082/GaanBangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Gaan%20Bangla.png"group-title="Aliflailabd",Gaan Bangla(Aliflailabd)
@@ -320,14 +320,16 @@ http://10.16.100.204:8082/hls/s0ny8aat.m3u8
 http://103.55.144.46/hls/starjalsha.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png"group-title="Amrbd",Star Jalsha(Amrbd)
 http://103.136.200.246:8082/Star-Jalsha/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png"group-title="BD",Star Jalsha HD(BD)
-http://89.187.162.109/STARJALSHA/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png"group-title="BDIX",Star Jalsha HD(BDIX)
+http://103.159.4.38:9191/CH24-INBD3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png"group-title="Aliflailabd",Star Jalsha(Aliflailabd)
 http://tvserver.aliflailabd.com:8989/star-jalsha/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Jalsha.png"group-title="ICC",Star Jalsha(ICC)
 http://10.16.100.204:8082/hls/st@rj@lsha.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="Flixhub",Zee Bangla HD(Flixhub)
 http://103.55.144.46/hls/zeebanglahd.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="BDIX",Zee Bangla HD(BDIX)
+http://103.159.4.38:9191/CH23-INBD2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="Fire TV",Zee Bangla HD(Fire TV)
 http://103.60.172.106:8080/ZeeBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/zee%20Bangla.png"group-title="Amrbd",Zee Bangla HD(Amrbd)
@@ -338,6 +340,8 @@ http://tvserver.aliflailabd.com:8989/zee-bangla/index.m3u8
 http://10.16.100.204:8082/hls/zeeb@ngla.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png"group-title="Flixhub",Colors Bangla(Flixhub)
 http://103.55.144.46/hls/colorsbangla.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png"group-title="BDIX",Colors Bangla(BDIX)
+http://103.159.4.38:9191/CH25-INBD4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png"group-title="Fire TV",Colors Bangla(Fire TV)
 http://103.60.172.106:8080/ColorsBanglaHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png"group-title="Amrbd",Colors Bangla(Amrbd)
@@ -354,6 +358,8 @@ http://89.187.178.133:9066/SUN_BANGLA/tracks-v1a1/mono.m3u8
 http://10.16.100.245/hindi/akash8_1stop.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png"group-title="Flixhub",Zee Bangla Cinema(Flixhub)
 http://103.55.144.46/hls/zee-bangla-cinema.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png"group-title="BDIX",Zee Bangla Cinema(BDIX)
+http://103.159.4.38:9191/CH26-INBD5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Zee%20Bangla%20Cinema%20.png"group-title="Amrbd",Zee Bangla Cinema(Amrbd)
 http://103.136.200.246:8082/ZeeBanglacinema/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla%20Cinema.png"group-title="Flixhub",Colors Bangla Cinema(Flixhub)
@@ -370,8 +376,13 @@ http://idvd.multitvsolution.com/idvo/khushboo.m3u8
 http://stream1.livebox.co.in:80/kbcreationhls/live.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tp3Kead.png" group-title="BD",Enter 10 Bangla
 https://itvoign.multitvsolution.com/idvo/enterr10bangla_540p/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TNk56Ai.png" group-title="BDIX",Sangeet Bangla(BDIX)
+http://103.159.4.38:9191/CH27-INBD6/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TNk56Ai.png" group-title="BD2",Sangeet Bangla(BD2)
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1 tvg-logo=""group-title="BDIX",Jalsha Movies(BDIX)
+http://103.159.4.38:9191/CH22-INBD1/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20TV.png"group-title="Flixhub",Sony TV(Flixhub)
 http://103.55.144.46/hls/sonyen.m3u8
