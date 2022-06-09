@@ -806,6 +806,8 @@ http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/musicindia/musicindia.isml/.m3u8
 http://tvserver.aliflailabd.com:8989/mtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/MTV.png"group-title="BD3",MTV(BD3)
 http://144.217.70.181:9587/hin2/MTVINDIA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/57/8XM_Logo.png"group-title="BD2", 8X music
+http://144.217.70.181:9587/hin2/8XM/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/fHvAoM9"group-title="BD2",Hangama Music(BD2)
 https://live.hungama.com/linear/dil-se/playlist_3.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/GizchDO"group-title="BD3", Kadak Music(BD2)
