@@ -499,8 +499,8 @@ http://103.55.144.46:80/colorscineplex.m3u8
 http://208.86.19.13:81/735.stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/And%20Pictures%20.png"group-title="Flixhub",And Pictures(Flixhub)
 http://103.55.144.46:80/andpictures.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bflix.jpeg"group-title="Fire TV",Bflix(Fire TV)
-http://103.60.172.106:8080/BflixMovies/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bflix.jpeg"group-title="BD2",Bflix(BD2)
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bflix.jpeg"group-title="Amrbd",Bflix(Amrbd)
 http://103.136.200.246:8082/bflix/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/B4U%20Movies.png"group-title="Aliflailabd",B4U Movies(Aliflailabd)
