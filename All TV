@@ -20,7 +20,7 @@ http://103.55.144.46/hls/ptv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 10
 http://103.55.144.46/hls/Gazi-TV.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 11
-http://iptvbd.jagobd.com:1931/live-orgin/titash.stream/chunks.m3u8
+https://streamcdneu.loco.gg:443/Q76U31VGDD_c8ee88d4-7995-4a7b-a2f5-ab14f3f66b1e/Q76U31VGDD_c8ee88d4-7995-4a7b-a2f5-ab14f3f66b1e_hi/manifest.m3u8
 
 
 
