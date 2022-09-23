@@ -545,8 +545,7 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 http://103.121.14.18/hls/dhin.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Flixhub",Star Sports 1(Flixhub)
-http://103.121.14.18"group-title="Sky",Star Sports 1(Sky)
-http://stream.accessnetbd.com/hls/sky7.m3u8
+http://103.121.14.18/hls/stersports1hd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="BDIPTV",Star Sports 1(BDIPTV)
 http://bdiptv.net:8082/STAR-SPORTS-1HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Aliflailabd",Star Sports 1(Aliflailabd)
@@ -562,7 +561,7 @@ http://bdiptv.net:8082/STAR-SPORTS-2HD/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%202%40.jpeg"group-title="ICC",Star Sports 2(ICC)
 http://10.16.100.207:8082/sports/st@r$port$2twoHD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%203.png"group-title="Flixhub",Star Sports 3(Flixhub)
-/hls/starsports3.m3u8
+http://103.121.14.18/hls/starsports3.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="Flixhub",Star Sports Select 1(Flixhub)
 http://103.121.14.18/hls/Star_Sport_Select1HD.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="Fire TV",Star Sports Select 1(Fire TV)
@@ -574,7 +573,7 @@ http://tvserver.aliflailabd.com:8989/star-sports-select1/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%201%40.jpeg"group-title="ICC",Star Sports Select 1(ICC)
 http://10.16.100.207:8082/sports/ssselecthd1one.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg"group-title="Flixhub",Star Sports Select 2(Flixhub)
-/hls/select2.m3u8
+http://103.121.14.18/hls/select2.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg"group-title="Fire TV",Star Sports Select 2(Fire TV)
 http://103.60.172.106:8080/StarSportsSelect2/tracks-v1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%20Select%20%202%40.jpeg"group-title="BDIPTV",Star Sports Select 2(BDIPTV)
@@ -628,7 +627,7 @@ http://103.60.172.106:8080/SonySix/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Six.png"group-title="EBOX",Sony Six(EBOX)
 http://tv2.ebox.live:8080/live/sonysix.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Six.png"group-title="Flixhub",Sony Six(Flixhub)
-http://103.60.172.106:8080/SonySix/tracks-v1a1/mono.m3u8
+http://103.121.14.18/hls/sonysix.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Six.png"group-title="Amrbd",Sony Six(Amarbd)
 http://103.136.200.246:8082/SonySix/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Six.png"group-title="ICC",Sony Six(ICC)
@@ -718,11 +717,11 @@ http://tvserver.aliflailabd.com:8989/discovery/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Discovery%20Science%20.png"group-title="Flixhub",Discovery Science (Flixhub)
 http://103.121.14.18/hls/dis-science.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Flixhub",Net Geo HD(Flixhub)
-http://103.121.14.18hls/ngohd.m3u8
+http://103.121.14.18/hls/ngohd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/National%20Geographic%20Channel.png"group-title="Amrbd",Net Geo HD(Amrbd)
 http://103.136.200.246:8082/Nat-Geo/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nat%20Geo%20Wild.png"group-title="Flixhub",Nat Geo Wild(Flixhub)
-/hls/wild.m3u8
+http://103.121.14.18/hls/wild.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png"group-title="Flixhub",Travel XP HD Bangla(Flixhub)
 http://103.121.14.18/hls/travelxp.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Travel%20XP.png"group-title="Flixhub",Travel XP HD Bangla(Flixhub)2
@@ -794,7 +793,7 @@ http://tvserver.aliflailabd.com:8989/star-world/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/AXN.png"group-title="Flixhub",AXN(Flixhub)
 http://103.121.14.18/hls/axn.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TLC.png"group-title="Flixhub",TLC(Flixhub)
-http://103.121.14.18hls/tlc.m3u8
+http://103.121.14.18/hls/tlc.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TLC.png"group-title="Amrbd",TLC(Amrbd)
 http://103.136.200.246:8082/TLC_World/index.m3u8
 
