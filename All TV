@@ -263,10 +263,10 @@ http://tvserver.aliflailabd.com:8989/duronto-tv/index.m3u8
 http://103.121.14.18/hls/nexus.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BDIX",CHANNEL S HD
 https://live.tvdhaka.com:30443/live/channels/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg"group-title="Fire TV",Somoy TV(Fire TV)
-http://103.60.172.106:8080/SomoyTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg"group-title="Flixhub",Somoy TV(Flixhub)
 http://103.121.14.18/hls/somoy.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg"group-title="Fire TV",Somoy TV(Fire TV)
+http://103.60.172.106:8080/SomoyTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg"group-title="Amrbd",Somoy TV(Amrbd)
 http://103.136.200.246:8082/Somoy-TV/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg"group-title="Aliflailabd",Somoy TV(Aliflailabd)
@@ -387,7 +387,7 @@ http://tvserver.aliflailabd.com:8989/colors-bangla/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors%20Bangla.png"group-title="ICC",Colors Bangla(ICC)
 http://10.16.100.204:8082/hls/col0rsb@ngla.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="Flixhub",Sun Bangla(Flixhub)
-http://103.121.14.18hls/sunbangla.m3u8
+http://103.121.14.18/hls/sunbangla.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sun%20Bangla.png"group-title="BD",Sun Bangla(BD)
 http://89.187.178.133:9066/SUN_BANGLA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Akash%20Aath.png"group-title="ICC",Akash Aath(ICC)
