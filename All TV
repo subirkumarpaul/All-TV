@@ -859,6 +859,9 @@ http://144.217.70.181:9587/hin2/MTVBEATSHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="BD3",E24(BD3)
 http://144.217.70.181:9587/hin2/E24/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1  group-title="Flixhub" tvg-logo="",Bhojpuri (Flixhub)
+http://103.121.14.18/hls/bhojpuri.m3u8
+
 #EXTINF:-1 tvg-logo=""group-title="Fire TV",NDTV 24/7(Fire TV)
 http://103.60.172.106:8080/NDTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Fire TV",India Today(Fire TV)
