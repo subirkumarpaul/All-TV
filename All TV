@@ -813,7 +813,6 @@ http://103.121.14.18/hls/axn.m3u8
 http://103.121.14.18/hls/tlc.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/TLC.png"group-title="Amrbd",TLC(Amrbd)
 http://103.136.200.246:8082/TLC_World/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9xm.png"group-title="Flixhub",9xm(Flixhub)
 http://103.121.14.18/hls/9xm.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/9xm.png"group-title="Fire TV",9xm(Fire TV)
