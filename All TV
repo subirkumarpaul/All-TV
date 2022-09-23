@@ -838,6 +838,8 @@ http://103.72.179.30:1935/GECHindi/ZOOM.stream_720p/Playlist.m3u8
 http://144.217.70.181:9587/hin2/ZOOM/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bindass.png"group-title="Flixhub",Bindass(Flixhub)
 http://103.121.14.18/hls/bindass.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Flixhub",Mastii Music(Flixhub)
+http://103.121.14.18/hls/masti.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Masti%20TV.jpeg"group-title="Aliflailabd",Masti Music(Aliflailabd)
 http://tvserver.aliflailabd.com:8989/musti-music/index.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKyMNNb_SRC2dnm7IW84llAJ9aO5Zb7V4jdjHaweOo58tzrc9pSsRv85-TZD1w4L57nc4&usqp=CAU" group-title="BD2",Music India(BD2)
