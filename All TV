@@ -889,6 +889,10 @@ http://103.60.172.106:8080/CGTN/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo=""group-title="Fire TV",Bloomberg TV(Fire TV)
 http://103.60.172.106:8080/BloombergTV/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo=""group-title="Flixhub",Madina TV(Flixhub)
+http://103.121.14.18/hls/madani.m3u8
+#EXTINF:-1 tvg-logo=""group-title="Flixhub",Quran TV(Flixhub)
+http://103.121.14.18/hls/qurqntv.m3u8
 
 #EXTINF:-1,Channel 1
 http://103.109.56.116/live/skyfeed1001/index.m3u8
