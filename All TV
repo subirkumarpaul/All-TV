@@ -1,22 +1,20 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 1(720p)
 https://live.tsports.com/live/live_01_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 2(480p)
 https://live.tsports.com/live/live_01_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 3
 http://bcdn.bdixsports.live:1935/live/event.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 4
 http://appsbiswas.live:8880/live/20320520/40320520/2952.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 5 English
-https://prod-sports-hin-gm.jiocinema.com/hls/live/2099000/uhd_akamai_ctv_avc_eng_ipl10/master.m3u8
-https://join-us-on-telegram-streamkingliveo.pages.dev/ENGLISH-WW.m3u8
+http://116.204.149.16/TSports_HD/tracks-v1a1/mono.m3u8
+https://prod-sports-eng-gm.jiocinema.com/hls/live/2100298/hd_akamai_iosmob_avc_eng_ipl11/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 5 Bangla
-https://prod-sports-hin-gm.jiocinema.com/hls/live/2099022/uhd_akamai_ctv_avc_ben_ipl10/master.m3u8
 https://join-us-on-telegram-streamkingliveo.pages.dev/BANGLA-WW.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 5 Hindi
-https://prod-sports-hin-gm.jiocinema.com/hls/live/2099003/uhd_akamai_ctv_avc_hin_ipl10/master.m3u8
 https://join-us-on-telegram-streamkingliveo.pages.dev/HINDI-WW.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 6
 http://appsbiswas.live:8880/live/20320520/40320520/153.m3u8
@@ -50,8 +48,9 @@ http://appsbiswas.live:8880/live/20320520/40320520/51.m3u8
 http://appsbiswas.live:8880/live/20320520/40320520/4623.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 21
 http://3.27.107.138/madstream.live/starsports2/tracks-v1a1/mono.m3u8
+http://51.159.210.91/madstream.live/starsports1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 22
-https://prod-sports-hin-gm.jiocinema.com/hls/live/2099000/uhd_akamai_ctv_avc_eng_ipl07/master.m3u8
+https://cdn.t20hd.click/live/1440p.m3u8
 
 
 
