@@ -1,28 +1,26 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 1(720p)
-https://live.tsports.com/live/live_01_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 2(480p)
-https://live.tsports.com/live/live_01_480/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 1
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 2
+http://starshare.live:8080/live/tanveer2159175/003332159175/767.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 3
 https://cdn.t20hd.click/live/1080p.m3u8
-https://cdn.t20hd.click/live/1440p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 4
-https://ddy1.onlinewebtv.lol/ddy1/premium370/tracks-v1a1/mono.m3u8
+https://ddy1.onlinewebtv.lol/ddy1/premium370/tracks-v1a1/mono.m3u8?|referer=https://olacast.live/&e.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 5 A
-https://ddy1.onlinewebtv.lol/ddy1/premium346/tracks-v1a1/mono.m3u8
-https://prod-sports-eng-gm.jiocinema.com/hls/live/2100298/hd_akamai_iosmob_avc_eng_ipl11/master.m3u8
+https://ddy1.onlinewebtv.lol/ddy1/premium346/tracks-v1a1/mono.m3u8?|referer=https://olacast.live/&e.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 5 B
-https://ddy1.onlinewebtv.lol/ddy1/premium65/tracks-v1a1/mono.m3u8
-https://join-us-on-telegram-streamkingliveo.pages.dev/BANGLA-WW.m3u8
+https://ddy1.onlinewebtv.lol/ddy1/premium65/tracks-v1a1/mono.m3u8?|referer=https://olacast.live/&e.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 5 C
-https://ddh2.onlinewebtv.lol/ddh2/premium369/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 6
-http://appsbiswas.live:8880/live/20320520/40320520/153.m3u8
+https://ddh2.onlinewebtv.lol/ddh2/premium369/tracks-v1a1/mono.m3u8?|referer=https://olacast.live/&e.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 6  বাংলা
+https://prod-sports-north-gm.jiocinema.com:443/hls/live/2099023/hd_akamai_androidmob_avc_ben_ipl22/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 7
-http://appsbiswas.live:8880/live/20320520/40320520/13.m3u8
+https://prod-sports-eng-gm.jiocinema.com/hls/live/2100298/hd_akamai_iosmob_avc_eng_ipl11/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 8 Hindi
-http://appsbiswas.live:8880/live/20320520/40320520/7567.m3u8
+http://starshare.live:8080/live/tanveer2159175/003332159175/769.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 9
 http://appsbiswas.live:8880/live/20320520/40320520/19.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 10
@@ -51,7 +49,6 @@ http://appsbiswas.live:8880/live/20320520/40320520/6980.m3u8
 http://51.159.210.91/madstream.live/starsports1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 22
 https://cdn.t20hd.click/live/1080p.m3u8
-
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Live%20Sports.png"group-title="Live Sports",Live Sports 2
