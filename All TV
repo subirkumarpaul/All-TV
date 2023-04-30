@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1,Hotel Relax
+https://m3u-editor.com/serve/b58cb920-e5eb-11ed-b8dd-5d847f7343e9/831471820.mkv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/IPL%202023.jpeg"group-title="Live Sports IPL",Live Sports IPL 1 English
 https://prod-sports-north-gm.jiocinema.com/hls/live/2100299/hd_akamai_androidmob_avc_eng_ipl32/master.m3u8
